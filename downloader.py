@@ -2,6 +2,8 @@ import os
 import requests
 from urllib.parse import urlparse
 
+from tls_bundle import house_mi_gov_ca_bundle
+
 DOWNLOAD_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "downloads")
 
 
@@ -15,8 +17,7 @@ def download_video(url, dest_path) -> None:
 
     temp_path = dest_path + ".part"
 
-    # house.mi.gov doesn't send its full cert chain, verify=False for this one
-    response = requests.get(url, stream=True, verify=False)
+    response = requests.get(url, stream=True, verify=house_mi_gov_ca_bundle())
     response.raise_for_status()
 
     with open(temp_path, "wb") as f:

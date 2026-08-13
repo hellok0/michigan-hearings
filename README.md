@@ -58,9 +58,11 @@ speaker-ID output:
   report written to `speaker_reports/`
 - `python inspect_speakers.py [hearing_id]` - dumps the relevant db tables
 
-Honestly, the easiest path is not to run it at all: `transcripts/`,
-`speaker_reports/`, and `_hearings.db_` already hold real output from
-letting this run for a few days against the live House and Senate archives.
+Honestly, the easiest path is not to run it at all. `transcripts/`,
+`speaker_reports/`, and `_hearings.db_` are checked in on purpose - they're
+real output from letting this run for a few days against the live House and
+Senate archives, so you can see it actually works without spending your own
+time or a Deepgram API call re-running it yourself.
 
 ## Future implementations 
 
@@ -85,8 +87,7 @@ letting this run for a few days against the live House and Senate archives.
 - **Video storage.** Right now `process_hearing()` downloads each video,
   transcribes it, then deletes the local copy - the transcript is the
   actual deliverable, and keeping every multi-GB video on local disk
-  forever doesn't scale (this repo already downloaded a 2.7GB single
-  hearing). What I'd actually do in production: push each video to S3
+  forever doesn't scale. What I'd actually do in production: push each video to S3
   instead of deleting it, with a lifecycle policy to move it to Glacier
   after some retention window. That gets permanence (source videos can
   disappear from the state's own archive over time) and reprocessing

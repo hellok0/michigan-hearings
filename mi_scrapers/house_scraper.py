@@ -3,18 +3,14 @@ from datetime import datetime
 from urllib.parse import urlparse, parse_qs
 
 import requests
-import urllib3
 
-# house.mi.gov's server doesn't send its full cert chain (checked - it's a
-# legit DigiCert leaf cert, just misconfigured). Public data, no creds, so
-# verify=False is fine here.
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+from tls_bundle import house_mi_gov_ca_bundle
 
 VIDEO_ARCHIVE_URL = "https://house.mi.gov/VideoArchive"
 
 
 def fetch_page(url):
-    response = requests.get(url, verify=False)
+    response = requests.get(url, verify=house_mi_gov_ca_bundle())
     return BeautifulSoup(response.text, 'html.parser')
 
 
