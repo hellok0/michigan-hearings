@@ -1,0 +1,222 @@
+HEARING: HJUDI-062426
+Committee code: HJUDI
+================================================================================
+
+ATTENDANCE (roll call, 13) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - Leitner
+  - Yes
+  - Boogal
+  - Wozniak
+  - Harris
+  - DeBoer
+  - Johnson
+  - Carter
+  - Hope
+  - Green
+  - Scott
+  - Lechner
+  - Magole
+
+TESTIMONY (67 turns)
+--------------------------------------------------------------------------------
+[LEGISLATOR] Leitner   [67 turn(s)]
+  07:49  ( unknown)  conf=0.6
+      "Gonna call the house judiciary committee to order."
+      "Madam Clerk, will you please call for attendance?"
+  07:54  ( unknown)  conf=0.6
+      "Chair Leitner."
+      "Here."
+  07:58  ( unknown)  conf=0.6
+      "Here."
+      "Harris."
+  08:02  ( unknown)  conf=0.6
+      "Here."
+      "Shuety."
+  08:05  ( unknown)  conf=0.6
+      "Poe."
+      "Here."
+  08:08  ( unknown)  conf=0.6
+      "Present."
+      "Madam Chair, you have 10 members present."
+  08:15  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Rep Johnson moves to adopt the minutes from 06:10."
+  08:34  ( unknown)  conf=0.6
+      "First up, we're gonna have some votes here real quick."
+      "I'm gonna read in cards in regards to house bills five two one one, five two one two, and five two one three from Josh p's family law section, not wishing to speak and opposing the bills."
+  09:46  ( unknown)  conf=0.6
+      "Alright."
+      "We're back to order."
+  09:59  ( unknown)  conf=0.6
+      "Chair Leitner?"
+      "Yes."
+  10:03  ( unknown)  conf=0.6
+      "Harris?"
+      "Yes."
+  10:06  ( unknown)  conf=0.6
+      "Yes."
+      "Carter?"
+  10:10  ( unknown)  conf=0.6
+      "Green?"
+      "No."
+  10:17  ( unknown)  conf=0.6
+      "House bill fifty two eleven is reported with recommendation."
+  10:21  ( unknown)  conf=0.6
+      "Thank you."
+      "Next up, we have house bill five two one two."
+  10:33  ( unknown)  conf=0.6
+      "Chair Lechner."
+      "Yes."
+  10:36  ( unknown)  conf=0.6
+      "Yes."
+      "Harris."
+  10:39  ( unknown)  conf=0.6
+      "Johnson."
+      "Yes."
+  10:42  ( unknown)  conf=0.6
+      "No."
+      "Hope?"
+  10:45  ( unknown)  conf=0.6
+      "Scott?"
+      "No."
+  10:53  ( unknown)  conf=0.6
+      "Thank you."
+      "Next up, we have house bill fifty two thirteen, and we'll have Brett Bacole move house bill or move to report house bill fifty two thirteen with recommendation."
+  11:04  ( unknown)  conf=0.6
+      "Chair Leitner?"
+      "Yes."
+  11:08  ( unknown)  conf=0.6
+      "Harris?"
+      "Yes."
+  11:11  ( unknown)  conf=0.6
+      "Yes."
+      "Schuette."
+  11:14  ( unknown)  conf=0.6
+      "Hope."
+      "No."
+  11:18  ( unknown)  conf=0.6
+      "Madam chair, you have 740 passed."
+      "House bill fifty two thirteen is reported with recommendation."
+  11:24  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Next up, we are gonna take on, house bills 5120, 5121, and 6033, which are all connected to each other."
+  12:05  ( unknown)  conf=0.6
+      "Testimony had already been attached."
+      "Alright."
+  12:28  ( unknown)  conf=0.6
+      "Chair Lightner?"
+      "Yes."
+  12:31  ( unknown)  conf=0.6
+      "Yes."
+      "Harris?"
+  12:34  ( unknown)  conf=0.6
+      "Johnson?"
+      "Yes."
+  12:38  ( unknown)  conf=0.6
+      "Hope."
+      "Yes."
+  12:42  ( unknown)  conf=0.6
+      "Yes."
+      "Madam chair, you have 11 yeas, zero nays, and zero passed."
+  12:48  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Next up, we have house bill five one two one."
+  13:02  ( unknown)  conf=0.6
+      "Yes."
+      "Representative Puigol."
+  13:04  ( unknown)  conf=0.6
+      "Yes."
+      "Wozniak."
+  13:08  ( unknown)  conf=0.6
+      "Johnson?"
+      "Yes."
+  13:11  ( unknown)  conf=0.6
+      "Pope?"
+      "Yes."
+  13:14  ( unknown)  conf=0.6
+      "Yes."
+      "Madam chair, you have 11 ayes, zero nays, and zero passed."
+  13:19  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Next up, we have house bill six zero three three."
+  13:50  ( unknown)  conf=0.6
+      "They can charge 25¢ a page."
+      "And then if there's electronic filing, a $5 electronic filing fee reimbursement as well."
+  14:25  ( unknown)  conf=0.6
+      "So madam clerk, will you please call the roll for the substitute?"
+  14:29  ( unknown)  conf=0.6
+      "Chair Lightner?"
+      "Yes."
+  14:34  ( unknown)  conf=0.6
+      "Yep."
+      "Harris?"
+  14:36  ( unknown)  conf=0.6
+      "Johnson?"
+      "Yes."
+  14:39  ( unknown)  conf=0.6
+      "Carter?"
+      "Yes."
+  14:42  ( unknown)  conf=0.6
+      "Aye."
+      "Scott?"
+  14:49  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Rep Bagole moves to report house bill six zero three three with recommendation as subs to h one."
+  15:00  ( unknown)  conf=0.6
+      "Chair Lightner."
+      "Yes."
+  15:03  ( unknown)  conf=0.6
+      "Yes."
+      "Harris."
+  15:06  ( unknown)  conf=0.6
+      "Johnson."
+      "Yes."
+  15:09  ( unknown)  conf=0.6
+      "Hope."
+      "Yes."
+  15:12  ( unknown)  conf=0.6
+      "Yes."
+      "Madam chair, you have 11 nays, zero nays, and zero passed."
+  15:17  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Next up, we have house bill four eight three three."
+  15:43  ( unknown)  conf=0.6
+      "So rep will move to adopt the h one substitute to house bill four eight three three."
+      "Madam clerk, please call the roll."
+  15:51  ( unknown)  conf=0.6
+      "To adopt the substitute h one, Chair Leitner."
+      "Yes."
+  15:56  ( unknown)  conf=0.6
+      "Yes."
+      "Harris."
+  16:03  ( unknown)  conf=0.6
+      "Johnson?"
+      "Yes."
+  16:05  ( unknown)  conf=0.6
+      "Carter?"
+      "Yes."
+  16:10  ( unknown)  conf=0.6
+      "Aye."
+      "Scott?"
+  16:17  ( unknown)  conf=0.6
+      "madam clerk."
+      "So next up, we'll have, rep Wozniak move to report house bill four eight three three with recommendation as substitute h one."
+  16:28  ( unknown)  conf=0.6
+      "Chair Leitner."
+      "Yes."
+  16:32  ( unknown)  conf=0.6
+      "Garrett."
+      "Harris?"
+  16:35  ( unknown)  conf=0.6
+      "Johnson?"
+      "Yes."
+  16:38  ( unknown)  conf=0.6
+      "Yes."
+      "Hope?"
+  16:42  ( unknown)  conf=0.6
+      "Scott?"
+      "Yes."
+  16:48  ( unknown)  conf=0.6
+      "Thank you, madam clerk."
+      "Seeing no further business before the committee, we are adjourned."

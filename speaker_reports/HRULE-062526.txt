@@ -1,0 +1,738 @@
+HEARING: HRULE-062526
+Committee code: HRULE
+================================================================================
+
+ATTENDANCE (roll call, 11) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - Schutte
+  - Aragona
+  - Wenzel
+  - Martin
+  - Posthumous
+  - DeBoer
+  - Farhat
+  - Liberati
+  - Herzberg
+  - Reese
+  - Columbia
+
+TESTIMONY (247 turns)
+--------------------------------------------------------------------------------
+[LEGISLATOR] Schutte   [57 turn(s)]
+  02:47  ( unknown)  conf=0.6
+      "The House Rules Committee will come to order."
+      "Would the clerk please take attendance?"
+  03:05  ( unknown)  conf=0.6
+      "Vice chair Farhat moves to adopt the minutes of the June 18 meeting."
+      "And there being no objections, the motion prevails by unanimous consent."
+  04:51  ( unknown)  conf=0.6
+      "Well, thank you, representative Pablo."
+      "I think, this is, an important effort, to e school transitions for our armed forces and for our national guard families."
+  05:17  ( unknown)  conf=0.6
+      "Okay."
+      "Well, great."
+  05:19  ( unknown)  conf=0.6
+      "have any questions for members of the committee?"
+      "Alright."
+  05:28  ( unknown)  conf=0.6
+      "I was, I was gonna speak to that in just one second here."
+      "So, there is both an h one substitute from its previous committee, that we will move to adopt, which replaces the term active duty with the term currently existing, and representative DeBoer moves to adopt that substitute."
+  05:49  ( unknown)  conf=0.6
+      "Yes."
+      "Representative Aragona?"
+  06:02  ( unknown)  conf=0.6
+      "The substitute is adopted, and there is also an h two substitute, which clarifies the definition of armed forces of the United States."
+      "And representative Martin moves to adopt that substitute."
+  06:32  ( unknown)  conf=0.6
+      "Alright."
+      "And the substitute is adopted."
+  06:56  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "Alright."
+  07:06  ( unknown)  conf=0.6
+      "And, the committee will now hear testimony and subsequently take up House Bill 6,007."
+      "And representative Kavett will be testifying along with his staffer, Adam."
+  07:22  ( unknown)  conf=0.6
+      "Alright."
+      "Well, thank you, representative."
+  09:24  ( unknown)  conf=0.6
+      "So, do you have any other questions?"
+      "Representative DeBoer."
+  10:12  ( unknown)  conf=0.6
+      "Yeah."
+      "Thank you."
+  10:18  ( unknown)  conf=0.6
+      "So there you go."
+      "Alright."
+  10:24  (+support)  conf=0.75
+      "There is one card not wishing to speak in support of the bill, Jarrett Skorp from the Mackinac Center for Public Policy."
+  11:01  ( unknown)  conf=0.6
+      "Substitute is adopted, and representative DeBoer moves to report the bill with recommendation as substitute h two."
+      "Will the clerk please call the roll?"
+  11:24  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "Alright."
+  11:41  ( unknown)  conf=0.6
+      "Oh, wait."
+      "No."
+  11:51  ( unknown)  conf=0.6
+      "And representative Postomus moves to adopt the substitute."
+      "Would the clerk please call the roll?"
+  12:11  ( unknown)  conf=0.6
+      "The substitute is adopted, and representative Martin moves to report the bill with recommendation as substitute h one."
+      "Will the clerk please call the roll?"
+  12:34  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "And we will now take up house bill fifty nine seventy five."
+  13:04  ( unknown)  conf=0.6
+      "The bill is reported with recommendation."
+      "And we'll now take up house bill fifty seven sixteen."
+  13:39  ( unknown)  conf=0.6
+      "The substitute is adopted, and representative Martin moves to report the bill with recommendation as substitute h one."
+      "Would the clerk please call the roll?"
+  14:05  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "And we will now take up house bill fifty nine thirty six."
+  14:41  ( unknown)  conf=0.6
+      "The substitute is adopted, and representative Posthumous moves to report the bill with recommendation as substitute h one."
+      "Will the clerk please call the roll?"
+  15:05  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "We will now take up house bill fifty nine thirty seven."
+  15:39  ( unknown)  conf=0.6
+      "The substitute is adopted, And representative Wenzel moves to report the bill with recommendation as substitute h one."
+      "Would the clerk please call the roll?"
+  16:05  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "And we will now take up house bill fifty nine thirty eight."
+  16:40  ( unknown)  conf=0.6
+      "The substitute is adopted, and representative DeBoer moves to report the bill with recommendation as substitute h one."
+      "Would the clerk please call the roll?"
+  17:04  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "Alright."
+  19:07  ( unknown)  conf=0.6
+      "Well, first off, just wanna, touch on the rule promulgation that is, in this, legislation."
+      "It removes rule promulgation resulting, from not requiring minor work permits."
+  19:22  ( unknown)  conf=0.6
+      "Okay."
+      "And then there's no new rule promulgation."
+  19:39  ( unknown)  conf=0.6
+      "Okay."
+      "Any other questions for members of the committee?"
+  20:10  (+support)  conf=0.75
+      "Now wishing to speak in support of the bill is Joshua Scrambling from the Michigan Farm Bureau."
+      "Now wishing to speak in support of the bill is And there is an h four substitute from its previous committee, which results in drafting error and representative, the board moves to adopt that substitute."
+  21:05  ( unknown)  conf=0.6
+      "The substitute is adopted, and representative Martin moves to report the bill with recommendation as substitute h four."
+      "Would the clerk please call the roll?"
+  21:30  ( unknown)  conf=0.6
+      "The bill is reported with recommendation as substituted."
+      "Alright."
+  26:56  ( unknown)  conf=0.6
+      "Thank you, representative."
+      "And AI is certainly a a hot topic of the day, so so I appreciate you diving into, what is a very important issue."
+  27:27  ( unknown)  conf=0.6
+      "Okay."
+      "And this, it would and it would That's"
+  27:31  ( unknown)  conf=0.6
+      "Understood."
+      "So, but this this only, pertains to how, state agency or state department would use their II."
+  27:54  ( unknown)  conf=0.6
+      "Thank you."
+      "And then, so, there is rule promulgation that involves the department, promulgating rules to to implement."
+  28:18  ( unknown)  conf=0.6
+      "Okay."
+      "Okay."
+  29:24  ( unknown)  conf=0.6
+      "Representative DeBart."
+  31:25  ( unknown)  conf=0.6
+      "Alright."
+      "Any other questions, members of the committee?"
+  31:32  ( unknown)  conf=0.6
+      "Alright."
+      "And we'll now hear testimony on House Bill sixty twenty two, and representative VanderWaal will be testifying along with Christine Shearer from the Michigan Association of Health Plans."
+  42:15  ( unknown)  conf=0.6
+      "Thank you both."
+      "So just first question for me, representative Vanderwal."
+  42:27  ( unknown)  conf=0.6
+      "There are no changes to existing rule promulgation in this legislation."
+      "Is that correct?"
+  48:02  ( unknown)  conf=0.6
+      "Any other questions, members of the committee?"
+      "I guess I have one in, in the house passed budget representative, we have boiler plate language that pauses the the mental health framework."
+  48:49  ( unknown)  conf=0.6
+      "Alright."
+      "Thank you."
+  59:49  ( unknown)  conf=0.6
+      "Thank you."
+      "Just just one question."
+  01:00:20  ( unknown)  conf=0.6
+      "How do we prevent that from occurring?"
+  01:01:42  ( unknown)  conf=0.6
+      "So so the answer is more beds is okay."
+      "And then, I look at this the sheet that you had with your performance rates."
+  01:02:39  ( unknown)  conf=0.6
+      "Okay."
+      "Thank you."
+  01:03:42  (+support)  conf=0.75
+      "Now wishing to speak in support of the bill is Jarrett Skorp from the Mackinac Center."
+  01:03:52  (+support)  conf=0.75
+      "Now wishing to speak in support of the bill is Carla Roos from Team Wellness."
+      "Now wishing to speak in support of the bill is Joe Habeman from Hope Network."
+      "Now wishing to speak in support of the bill is Elizabeth Cutter from the Michigan Health and Hospital Association."
+  01:04:19  ( unknown)  conf=0.6
+      "And not wishing to speak neutral on the bill is Mary Anne Hough from the Mental Health Association in Michigan."
+      "Alright."
+  01:04:33  ( unknown)  conf=0.6
+      "There being no further business before the committee, the committee will stand adjourned."
+
+[LEGISLATOR] Wenzel   [74 turn(s)]
+  02:52  ( unknown)  conf=0.6
+      "Chair Schutte?"
+      "Here."
+  02:56  ( unknown)  conf=0.6
+      "Martin?"
+      "Here."
+  03:01  ( unknown)  conf=0.6
+      "Liberati?"
+      "Herzberg?"
+  05:46  ( unknown)  conf=0.6
+      "On the motion to adopt the h one, Chair Schutte?"
+  05:56  ( unknown)  conf=0.6
+      "Yes."
+      "Liberati?"
+  05:58  ( unknown)  conf=0.6
+      "Mister chair, you have nine yays, zero nays, and zero pass."
+      "The motion does prevail."
+  06:16  ( unknown)  conf=0.6
+      "On the motion to adopt the h two, chair Schutte?"
+      "Yes."
+  06:24  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  06:27  ( unknown)  conf=0.6
+      "Yes."
+      "Herzberg?"
+  06:42  ( unknown)  conf=0.6
+      "On the motion to report, chair Schuette?"
+  06:50  ( unknown)  conf=0.6
+      "Yes."
+      "Liberati?"
+  06:53  ( unknown)  conf=0.6
+      "Mister Trey of nine yays, zero nays, and zero passed the motion."
+  10:45  ( unknown)  conf=0.6
+      "On the motion to adopt the substitute, chair Schutte?"
+  10:52  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  10:55  ( unknown)  conf=0.6
+      "Yes."
+      "Hershberg?"
+  11:09  ( unknown)  conf=0.6
+      "On the motion to report, chair Schuette?"
+  11:17  ( unknown)  conf=0.6
+      "Liberati?"
+      "Yes."
+  11:22  ( unknown)  conf=0.6
+      "The motion does prevail."
+  11:55  ( unknown)  conf=0.6
+      "On the motion to adopt the h one, chair Schutte?"
+      "Yes."
+  12:03  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  12:06  ( unknown)  conf=0.6
+      "Yes."
+      "Herzberg?"
+  12:18  ( unknown)  conf=0.6
+      "On the motion to report, chair Schutte?"
+      "Yes."
+  12:24  ( unknown)  conf=0.6
+      "Posthumous?"
+      "Yes."
+  12:27  ( unknown)  conf=0.6
+      "Liberati?"
+      "Yes."
+  12:32  ( unknown)  conf=0.6
+      "The motion does prevail."
+  12:47  ( unknown)  conf=0.6
+      "On the motion to report, chair Schuette?"
+  12:50  ( unknown)  conf=0.6
+      "Representative Zaragona?"
+  12:53  ( unknown)  conf=0.6
+      "Martin?"
+      "Yes."
+  12:56  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  12:59  ( unknown)  conf=0.6
+      "Yes."
+      "Herzberg?"
+  13:23  ( unknown)  conf=0.6
+      "On the motion to adopt the sub, chair Schutte?"
+      "Yes."
+  13:29  ( unknown)  conf=0.6
+      "Posthumous?"
+      "Yes."
+  13:32  ( unknown)  conf=0.6
+      "Yes."
+      "Liberati?"
+  13:35  ( unknown)  conf=0.6
+      "Mister chair, you have nine yays, zero nays, and zero pass."
+      "The motion does prevail."
+  13:46  ( unknown)  conf=0.6
+      "On the motion to report, chair Schutte?"
+      "Yes."
+  13:50  ( unknown)  conf=0.6
+      "Yes."
+      "Wenzel?"
+  13:53  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  13:59  ( unknown)  conf=0.6
+      "Yes."
+      "Hersberg?"
+  14:04  ( unknown)  conf=0.6
+      "The motion does prevail."
+  14:20  ( unknown)  conf=0.6
+      "On the motion to adopt the h one substitute, chair Schutte?"
+      "Yes."
+  14:26  ( unknown)  conf=0.6
+      "Yes."
+      "Martin?"
+  14:29  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  14:34  ( unknown)  conf=0.6
+      "Liberati?"
+      "Yes."
+  14:40  ( unknown)  conf=0.6
+      "The motion does prevail."
+  14:48  ( unknown)  conf=0.6
+      "On the motion to report, Chair Schutte?"
+      "Yes."
+  14:54  ( unknown)  conf=0.6
+      "Yes."
+      "Posthumus?"
+  14:56  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  14:59  ( unknown)  conf=0.6
+      "Liberati?"
+      "Yes."
+  15:04  ( unknown)  conf=0.6
+      "The motion does prevail."
+  15:20  ( unknown)  conf=0.6
+      "On the motion to adopt the substitute h one, chair Schuette?"
+      "Yes."
+  15:26  ( unknown)  conf=0.6
+      "Yes."
+      "Martin?"
+  15:29  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  15:35  ( unknown)  conf=0.6
+      "Mister Chair, you have eight yeas, zero nays, and one pass."
+      "The motion does prevail."
+  15:47  ( unknown)  conf=0.6
+      "On the motion to report, chair Schuette?"
+      "Yes."
+  15:54  ( unknown)  conf=0.6
+      "Yes."
+      "Posthumous?"
+  15:55  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  15:59  ( unknown)  conf=0.6
+      "Yes."
+      "Herzberg?"
+  16:22  ( unknown)  conf=0.6
+      "And the motion to adopt substitute h one."
+      "Chair Schutte?"
+  16:24  ( unknown)  conf=0.6
+      "Representative Zaragona?"
+  16:30  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  16:35  ( unknown)  conf=0.6
+      "Herzberg?"
+      "Yes."
+  16:47  ( unknown)  conf=0.6
+      "On the motion to report, chair Schuette?"
+  16:53  ( unknown)  conf=0.6
+      "Yes."
+      "Posthumous?"
+  16:56  ( unknown)  conf=0.6
+      "Barghat?"
+      "Yes."
+  17:00  ( unknown)  conf=0.6
+      "Yes."
+      "Mister Cherry of six yays, zero nays, and three passed."
+  20:48  ( unknown)  conf=0.6
+      "And the motion to adopt the h four, Chair Schutte?"
+  20:50  ( unknown)  conf=0.6
+      "Representative Zaragona?"
+      "Yes."
+  20:54  ( unknown)  conf=0.6
+      "Yes."
+      "Posthumus?"
+  20:58  ( unknown)  conf=0.6
+      "Liberati?"
+      "Yes."
+  21:04  ( unknown)  conf=0.6
+      "The motion does prevail."
+  21:13  ( unknown)  conf=0.6
+      "On the motion to report, chair Schuette?"
+      "Yes."
+  21:18  ( unknown)  conf=0.6
+      "Yes."
+      "Martin?"
+  21:20  ( unknown)  conf=0.6
+      "DeBoer?"
+      "Yes."
+  21:24  ( unknown)  conf=0.6
+      "No."
+      "Hersberg?"
+
+[LEGISLATOR] Zaragona   [46 turn(s)]
+  03:39  ( unknown)  conf=0.6
+      "Thank you, mister chair and committee."
+      "House bill four forty eight thirteen makes technical adjustments to the interstate compact of educational opportunity for military children."
+  04:09  ( unknown)  conf=0.6
+      "It addresses key educational transition issues like enrollment, placement, attendance, eligibility, and graduation."
+      "However, the current compact does not include members of the National Guard or Reserve who are not on active duty orders."
+  04:42  ( unknown)  conf=0.6
+      "By making it easier to transfer schools, we are saying a simple thank you to our service members and their families."
+      "Thank you, mister chair."
+  05:26  ( unknown)  conf=0.6
+      "you receive the h two substitute?"
+      "Yep."
+  17:29  ( unknown)  conf=0.6
+      "Thank you, chair Schutte and members of the committee, for this opportunity to testify and for, further consideration of house bill five seven two seven."
+      "This bill restores common sense provisions from Michigan's Youth Employment Standards Act and eliminates the unnecessary state work permit requirement for young workers."
+  18:30  ( unknown)  conf=0.6
+      "Our kids deserve the chance to build skills, earn money for college or family needs, and contribute to their communities."
+      "Local businesses, especially in rural and small town Michigan, need reliable entry level help."
+  19:20  ( unknown)  conf=0.6
+      "That that is correct."
+      "It removes it from the state."
+  19:37  ( unknown)  conf=0.6
+      "That is correct."
+      "It leaves safety standards intact."
+  21:48  ( unknown)  conf=0.6
+      "Oh, they're all here fluid ace then."
+  28:22  ( unknown)  conf=0.6
+      "Hey, mister chair."
+      "So I don't wanna get disoping about it, but, would there be guardrails in the government?"
+  28:43  ( unknown)  conf=0.6
+      "Well, we're talking about promulgating rules here and so forth."
+  28:46  ( unknown)  conf=0.6
+      "So AI saw a a guardrail that it could circumvent as its AI, and it produced its own rule to be sent up for approval, is there a person oversight?"
+  29:05  ( unknown)  conf=0.6
+      "So they they couldn't generate couldn't see a rule and then generate its own rule or a or a a hurdle or something and generate its own rule to get around it."
+  29:15  ( unknown)  conf=0.6
+      "Well, that's Right."
+      "Rules and laws are a little fuzzy at sometimes."
+  32:01  ( unknown)  conf=0.537
+      "Thank you, mister chair, and thank you, committee."
+      "I'm joined by Christine Cheer with the Michigan Association of Health Plans to discuss this important legislation."
+  32:43  ( unknown)  conf=0.537
+      "Essentially, we could have community health departments conducting screenings for patients that private health plans would be responsible for paying for."
+      "Divorcing the determination of eligibility from the payment of service is a dangerous precedent to set."
+  33:42  ( unknown)  conf=0.537
+      "And maybe most importantly, it codifies the three hour rule, which is standard in CMH contracts that specifies that CMHs must conduct prescreening on patients within three hours of receiving notification."
+      "Many CMHS are good actors when it comes to this rule, but there isn't instances in Southeast Michigan where patients are allowed to sit in the emergency departments for an entire weekend because they argue the three hours begin when the check get their voicemails on Monday mornings."
+  35:19  ( unknown)  conf=0.537
+      "Thank you."
+      "I will be happy to answer any questions, after Christine testifies."
+  42:25  ( unknown)  conf=0.537
+      "What was I'm sorry."
+  42:36  ( unknown)  conf=0.6
+      "Thank you, chairman and president Venorello."
+      "Good to see you."
+  42:46  ( unknown)  conf=0.6
+      "I'm curious around the the problem we're trying to solve."
+      "Is it this three hour waiting they're waiting for more than three hours in some cases?"
+  43:38  ( unknown)  conf=0.6
+      "I know the department has, been been working with them."
+      "I know we worked with them on a lot of things."
+  43:50  ( unknown)  conf=0.6
+      "How would you characterize their opinion towards this right now, legislation?"
+  44:14  ( unknown)  conf=0.6
+      "And I guess my my last point here would be, you know, I know a lot of folks when it comes to hearing, you know, when when they're listening to this testimony, they might be concerned that it sounds like the preadmission screening is being put in the hands of the insurance companies."
+      "And for some folks, they feel like that might be, you know, they had interesting interactions with insurance."
+  44:44  ( unknown)  conf=0.6
+      "Do you think you know, what would the decision factors be there?"
+      "Would there be an an adverse incentive for any decisions?"
+  44:50  ( unknown)  conf=0.537
+      "Representative, I that's a great question."
+      "I think, ultimately, what we're trying to do is make sure that if a person comes in, to the hospital, if it's because they've they've had a physical wound, it's self inflicted wound, that during the same point in time that whatever we can do to make sure that we expedite the prescreening to make sure that this person that we're attending to the the bodily injury first, we should allow that same organization to attend, to the mental side."
+  45:43  ( unknown)  conf=0.537
+      "The number one thing, this comes down to what can we do to best take care of the individual and make sure that we expedite the opportunities for them to seek mental treatment immediately."
+  45:56  ( unknown)  conf=0.6
+      "And and, will the three hours here so the the right now, it sounds like the providers are not able to be there within those three hours."
+      "This is what I'm hearing here."
+  46:16  ( unknown)  conf=0.537
+      "Well, it another great question."
+      "In most cases, the hospital already has people there that are on staff, but right now, they can't treat that according to the rules that we have put in place."
+  46:52  ( unknown)  conf=0.537
+      "They've had you know, they have this breakdown or this episode."
+      "They could sit there from Friday night until noon on Monday, in a room that we have to have a chaperone in the room or somebody from the hospital in the room or a police officer in the room or an EMS in certain areas because of the situate."
+  48:00  ( unknown)  conf=0.6
+      "Thank you, chair."
+  49:13  ( unknown)  conf=0.537
+      "Thank you, mister chair, members of the committee."
+      "Alan Bolzer, David Lowe, CMH Association of Michigan."
+  49:34  ( unknown)  conf=0.537
+      "Essentially, six zero two two would make it easier for the department to implement that policy."
+      "Again, it's a policy that attempts to realign, adjust a number of items within the Medicaid behavioral health benefit."
+  50:15  ( unknown)  conf=0.537
+      "It's a very large expansive policy."
+      "Those stakeholders include counties, sheriffs, Us, and almost nearly every single advocacy organization that represents individuals or families with mental illness."
+  51:05  ( unknown)  conf=0.537
+      "So the question remains, if the department has paused the implementation, if there's language that blocks this, then why are we moving this forward?"
+      "And why why are we helping the administration pass a a help them implement a policy that nobody supports?"
+  51:43  (+support)  conf=0.688
+      "It was added to the bill to get additional stakeholders in support of the legislation."
+  52:19  ( unknown)  conf=0.537
+      "But as was mentioned, our CMH is currently having their contract a three hour requirement to do these pre admission screenings."
+      "Hospital six zero two two says if the CMH does not complete it within the three hours, then the hospital can find an appropriate person to do those screenings."
+  52:56  ( unknown)  conf=0.537
+      "They have almost a ninety nine percent, success rate at meeting that three hour standard."
+      "If you look at those numbers, you can look at your CMH."
+  53:21  ( unknown)  conf=0.537
+      "You know, again, we hear over and over again that people are sitting there because they're waiting to get assessed by CMH."
+      "That is 100% not the case whatsoever."
+  53:46  ( unknown)  conf=0.537
+      "There is not an inpatient setting that that is available."
+      "That's why they're in the emergency department not waiting on a pre admission screening."
+  54:04  ( unknown)  conf=0.537
+      "If there's no place for them to go, that's where the issue arises."
+      "This bill does not address that component."
+  54:34  ( unknown)  conf=0.537
+      "It essentially says what what the bill would essentially do would be, right now, if someone's on Medicaid, they go to the hospital, CMH comes in and does the assessment, they're the only one."
+      "What this bill would do if individuals on Medicaid, the hospital now has to figure out, okay, do I fall under the health plan program, or do I fall under the CMH program?"
+  55:17  ( unknown)  conf=0.537
+      "If we wanna look at the the pre admission screening, the three hour requirement, there are other legislative options out there that can do that that do not help the department implement this mental health framework policy."
+      "Again, I think this bill is a is a solution in search of a problem."
+  01:02:43  ( unknown)  conf=0.6
+      "We got one more."
+      "So with the new change in directors of the department, has there been any indication on if they're reevaluating or if there's new conversations around this framework that you folks are aware of eventually?"
+  01:03:18  ( unknown)  conf=0.6
+      "And very briefly, how engaged were you guys in the creation of that initial framework?"
+      "Or"
+  01:03:23  ( unknown)  conf=0.537
+      "I mean, they they have not included us."
+      "There's been very little communication."
+
+[LEGISLATOR] Aragona   [15 turn(s)]
+  05:51  ( unknown)  conf=0.6
+      "Wenzel?"
+      "Yes."
+  05:54  ( unknown)  conf=0.6
+      "Yes."
+      "DeBoer?"
+  06:21  ( unknown)  conf=0.6
+      "Wenzel?"
+      "Yes."
+  06:44  ( unknown)  conf=0.6
+      "Representatives Aragona?"
+      "Yes."
+  06:47  ( unknown)  conf=0.6
+      "Yes."
+      "Posthumous?"
+  10:47  ( unknown)  conf=0.6
+      "Yes."
+      "Representative Aragona?"
+  10:50  ( unknown)  conf=0.6
+      "Martin?"
+      "Yes."
+  11:10  ( unknown)  conf=0.6
+      "Yes."
+      "Representative Zaragona?"
+  11:13  ( unknown)  conf=0.6
+      "Martin?"
+      "Yes."
+  12:00  ( unknown)  conf=0.6
+      "Wenzel?"
+      "Yes."
+  12:20  ( unknown)  conf=0.6
+      "Representative Zaragoza?"
+      "Yes."
+  13:48  ( unknown)  conf=0.6
+      "Representative Zaragona?"
+  14:52  ( unknown)  conf=0.6
+      "Yes."
+      "Wenzel?"
+  15:51  ( unknown)  conf=0.6
+      "Wenzel?"
+      "Yes."
+  16:50  ( unknown)  conf=0.6
+      "Representative Zaragoza?"
+      "Yes."
+
+[LEGISLATOR] DeBoer   [5 turn(s)]
+  09:29  ( unknown)  conf=0.6
+      "And we talk about when life gives you lemons, please make lemonade."
+      "And they were making lemonade and, then they felt a lemon."
+  10:04  ( unknown)  conf=0.6
+      "So, that it's just great leadership."
+      "Thank you so much."
+  29:34  ( unknown)  conf=0.6
+      "Okay."
+      "I I, you know, I think it's great that,"
+  31:20  ( unknown)  conf=0.6
+      "Yeah."
+      "There'll be different types of jobs"
+  31:22  ( unknown)  conf=0.6
+      "Can be implemented."
+
+[LEGISLATOR] Martin   [21 turn(s)]
+  21:58  ( unknown)  conf=0.6
+      "Everybody's testimony is so short."
+      "Thank you, mister chair, members of the committee."
+  22:25  ( unknown)  conf=0.6
+      "Simply put, this bill creates an AI pilot program for state departments and employees to enter if they choose."
+      "It in turn, this enables the state and especially the legislature to learn from the program's participants."
+  23:11  ( unknown)  conf=0.6
+      "So three members are appointed to that governing board."
+      "The board's main job is advisory."
+  23:46  ( unknown)  conf=0.6
+      "That is the role of DTMB."
+      "It does not have control over participation at all, and it does not have binding authority."
+  24:22  ( unknown)  conf=0.6
+      "It could also support professional development of employees like training tools, and knowledge assistance."
+      "Really, it's limitless on how it can be used."
+  24:48  ( unknown)  conf=0.6
+      "So DTMB essentially runs the program, and the pilot program is administered by them."
+      "Who can apply?"
+  25:17  ( unknown)  conf=0.6
+      "So currently, we already have, the DTMB established their, guidelines for AI usage in, August 2025."
+      "This incorporated their guidelines and adds a little bit more oversight."
+  25:37  ( unknown)  conf=0.6
+      "But also, AI does help modernize government services."
+      "It creates, a measure how AI actually works."
+  25:59  ( unknown)  conf=0.6
+      "It simply enables them to do so because technology continues to evolve."
+      "So this allows the department to adapt to emergency technologies and evolving best practices while remaining accountable through the Michigan's administration administrative procedure act and public rulemaking process."
+  26:33  ( unknown)  conf=0.6
+      "As Michigan begins to explore the opportunities presented by artificial intelligence, we should ensure that strong oversight mechanisms are available, and the rulemaking authority included in house bill five eight nine nine helps accomplish that goal and ensures that innovation proceeds responsibly."
+      "And I ask you, mister chair and and committee members to support five eight nine nine."
+  27:17  ( unknown)  conf=0.6
+      "Yes."
+      "And they can receive an appropriation if requested from the legislature"
+  27:22  ( unknown)  conf=0.6
+      "To purchase the the the program that they want to use."
+  27:29  ( unknown)  conf=0.6
+      "the incentive."
+      "That's like the carrot."
+  27:45  ( unknown)  conf=0.6
+      "Not this only is to the Michigan state government."
+      "It doesn't even govern counties or local municipalities as well."
+  28:10  ( unknown)  conf=0.6
+      "Difficult to get a hold of these days."
+      "Okay."
+  28:42  ( unknown)  conf=0.6
+      "Can you say rephrase that question?"
+  29:00  ( unknown)  conf=0.6
+      "Yeah."
+      "That's what the governing board is."
+  29:13  ( unknown)  conf=0.6
+      "Well, it couldn't break the law either."
+  29:32  ( unknown)  conf=0.6
+      "A a a member of the private sector."
+  29:58  ( unknown)  conf=0.6
+      "Well and they're already using it, representative Debore."
+      "We just don't know how they're using it."
+  31:24  ( unknown)  conf=0.6
+      "Of course."
+      "Thank you."
+
+[WITNESS] Christine Shearer  -  Michigan Association of Health Plans   [17 turn(s)]
+  35:27  ( unknown)  conf=0.5
+      "Thank you for the opportunity to speak today on house bill sixty twenty two and the broader work underway through the department's mental health framework."
+      "My name is Christine Shearer."
+  35:59  ( unknown)  conf=0.5
+      "The goals are straightforward."
+      "Improve care coordination, clarifying responsibilities among payers and providers, and better align accountability with outcomes."
+  36:41  ( unknown)  conf=0.5
+      "Beginning 10/01/2025, the department required qualified mental health providers to use a standardized assessment tool designated by the state to determine the individual's level of need."
+      "That implementation continues through fiscal year twenty twenty six."
+  37:34  ( unknown)  conf=0.5
+      "Under current law, community mental health service programs are solely responsible for maintaining preadmission screening units and providing twenty four hour access and screening services for individuals who may require hospitalization, crisis services, or assisted outpatient treatment."
+      "House bill twenty sixty two is a practical and targeted update to the mental health code."
+  38:45  ( unknown)  conf=0.5
+      "The bill also includes an important patient centered provision."
+      "If a preadmission screening entity is unable to complete an assessment within the three hours of notification, another clinically qualified professional could conduct the assessment."
+  39:35  ( unknown)  conf=0.5
+      "These are all critical factors in helping individuals successfully transition to appropriate community based care and avoid unnecessary readmissions."
+      "Why this matters?"
+  40:26  ( unknown)  conf=0.5
+      "Conversely, if the department moves forward with the policy changes, but the legislation is not enacted, Medicaid health plans would likely be required to contract exclusively with the CMHS piece for preadmission screening services."
+      "In many areas, this would leave health plans with no alternative providers and little ability to address performance concerns when services are delayed or contract requirements are not met."
+  41:24  (+support)  conf=0.65
+      "While m a h MAHP and its member plans continue to believe there are there are opportunities to more fully integrate physical and behavioral health services at a financial operation and clinical levels, we support house bill sixty twenty two as a reasonable and necessary step forward."
+  42:57  ( unknown)  conf=0.5
+      "That's an excellent question, representative."
+      "And, really, this is the department's mental health framework."
+  43:07  ( unknown)  conf=0.5
+      "They've only, implemented one portion of that policy, which is the assessment."
+      "And so that's, the Mishkan and the Locus assessments that all providers have to do."
+  43:29  ( unknown)  conf=0.5
+      "I don't know, exactly what problem the department but this is the pot the department's initiative, and we are trying to work in good faith with the department."
+  43:54  ( unknown)  conf=0.5
+      "I don't, I'm not I'm not here to defend the department."
+      "I don't work for the department, or or I'm not here to even advocate for the mental health framework."
+  47:26  ( unknown)  conf=0.5
+      "And I'd like to clarify, if I may, mister chairman and representative, is that it's not it's not gonna be our CEO or our chief medical officer going into the hospital."
+      "Of"
+  47:38  ( unknown)  conf=0.5
+      "Okay."
+      "We contract with all, hospitals, but we don't have contracts on these specific entities, you know, within that."
+  48:22  ( unknown)  conf=0.5
+      "That's an excellent question."
+      "Yeah."
+  48:27  ( unknown)  conf=0.5
+      "That would be interesting."
+      "Again, we have no problem, adding language."
+  48:41  ( unknown)  conf=0.5
+      "So if that is a concern among any of the committee members, we are willing to make."
+
+[WITNESS] Dave Lowe   [12 turn(s)]
+  55:39  ( unknown)  conf=0.5
+      "Yeah."
+      "Thank you very much, mister chair, members of the committee."
+  56:16  ( unknown)  conf=0.5
+      "I I operated a pre admission screening unit where in that rural community, I had those contracts."
+      "I was performing that function."
+  57:03  ( unknown)  conf=0.5
+      "In contrast, hospital sixty twenty two does not clearly restate or apply the existing staffing requirements, namely the use of licensed mental health professionals and appropriate clinical supervision to health plans and their delegated entities."
+      "Our Medicaid health plans run who run pre admission screening units being held to the same statutory staffing qualifications as the community mental health screening units?"
+  57:40  ( unknown)  conf=0.5
+      "There's no way to confirm in house bill sixty twenty two that those identified delegates would be required to meet licensing rules used to establish the mental health professional criteria as it currently stands in law."
+      "Delegated entities could include contract vendors, call centers, admission contractors."
+  58:19  ( unknown)  conf=0.5
+      "But let's improperly assume, as this bill does, that CMH fails to meet this standard."
+      "We have in this bill language that allows hospital personnel, that's a quote, to perform the pre admission screening function."
+  59:07  ( unknown)  conf=0.5
+      "This creates uncertainty about who is legally qualified to make high stakes mental health mission decisions and raises questions about what rights an individual has to challenge those determinations set forth by the health plans."
+      "It is my hope that the rules committee will view these concerns I've outlined as supporting the fact that house bill sixty twenty two has incomplete and insufficiently defined qualification standards and is not appropriate to move forward."
+  01:00:21  ( unknown)  conf=0.5
+      "Oh, that's an excellent question, mister chair."
+      "So on 05/01/2026, the psychiatric specialty population bed inventory was published by MDHHS."
+  01:00:44  ( unknown)  conf=0.5
+      "So we have a 159 bed shortages for individuals who are intellectually and developmentally disabled."
+      "Our medical psychiatric units and as you know, the Medicaid population, of course, has higher levels of needs."
+  01:01:08  ( unknown)  conf=0.5
+      "I would have brought the children numbers, but I it's almost unbearable to talk about that in public."
+      "So, So, mister chair, to answer your question, we have to have the resources to get these individuals to the appropriate treatment setting."
+  01:01:57  ( unknown)  conf=0.5
+      "So we shouldn't be screening anybody unless they're appropriate to screen."
+      "So the hospital determines when that individual's appropriate to be screened."
+  01:02:12  ( unknown)  conf=0.5
+      "Is it diabetes that's unregulated or or stabilized?"
+      "There could be something medically that could be, you know, treated or taken care of that wouldn't cause for an individual to be psychiatrically evaluated."
+  01:02:57  ( unknown)  conf=0.5
+      "No."
+      "We're not aware of anything that's actionable that we are being held to relative to a mental health framework."

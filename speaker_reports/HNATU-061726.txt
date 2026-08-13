@@ -1,0 +1,156 @@
+HEARING: HNATU-061726
+Committee code: HNATU
+================================================================================
+
+ATTENDANCE (roll call, 17) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - Martin
+  - Germain
+  - Vanderwall
+  - Altman
+  - Holdley
+  - Johnson
+  - Preston
+  - Vonak
+  - Fairbairn
+  - Wirtz
+  - McFall
+  - Scott
+  - Weis
+  - Arbit
+  - Foreman
+  - Phillips
+  - Wooden
+
+TESTIMONY (43 turns)
+--------------------------------------------------------------------------------
+[WITNESS] Tim Poxon  -  American Legion Department of Michigan   [10 turn(s)]
+  09:43  ( unknown)  conf=0.5
+      "Thank you, and thank you chair Martin, vice chairs, and members of the House Committee on Natural Resources and Tourism."
+      "It is an honor to testify before this committee."
+  10:02  ( unknown)  conf=0.5
+      "We have a long history of working with Congress at the federal level and state legislatures."
+      "The GI Bill is just one of our legislative achievements."
+  10:49  ( unknown)  conf=0.5
+      "These veterans have not only served their country with distinction and honor, but they have also given more."
+      "The veterans that house bill fifty six eighty seven will benefit from have some injury that was related to their military service and that has caused them a disability rating of 30% or more from the VA."
+  11:40  ( unknown)  conf=0.5
+      "And while there is no way to know the exact number of veterans getting VA disability compensation in Michigan, it is about a 122,000 veterans, and that includes those getting less than 30%."
+      "And house bill fifty six eighty seven is only for those veterans with a disability rating of 30% or more."
+  12:14  ( unknown)  conf=0.5
+      "As you probably already know, we're losing about twenty two or more veterans a day to suicide in this country."
+      "Getting veterans outside and into hunting and fishing will contribute to contribute to lowering those numbers in Michigan."
+  12:57  ( unknown)  conf=0.5
+      "Thank you, mister chair and members of the committee, for your time and attention to this matter."
+      "With the chair's permission, I will answer questions."
+  15:26  ( unknown)  conf=0.5
+      "No."
+      "The VA won't give us the exact number."
+  15:50  ( unknown)  conf=0.5
+      "Thank you, sir."
+  16:19  ( unknown)  conf=0.5
+      "The VA does track that."
+      "The prediction is actually that it'll go down because a lot of these people are from the Vietnam era."
+  16:26  ( unknown)  conf=0.5
+      "And that's when we had, a large number of people that were injured or killed in in in the service of their country."
+      "So the prediction is it'll go down."
+
+[LEGISLATOR] Vanderwall   [3 turn(s)]
+  15:12  ( unknown)  conf=0.6
+      "Thank you, mister chair, and thank you guys for your service."
+      "Number one, thank you for being here today."
+  15:40  ( unknown)  conf=0.6
+      "Yeah."
+      "I was just curious of a a real accurate number on that because it's just food for thought."
+  22:00  ( unknown)  conf=0.6
+      "Representative Wooden."
+      "Thank you, chair."
+
+[LEGISLATOR] Wirtz   [8 turn(s)]
+  15:59  ( unknown)  conf=0.5
+      "Hi."
+      "Thank you."
+  26:41  ( unknown)  conf=0.5
+      "Yeah."
+      "Piggybacking on her question as well, we're so do you guys track the number of veterans licenses you're giving out annually?"
+  27:06  ( unknown)  conf=0.5
+      "And that's where you got the lost revenue of 50,000 from?"
+  27:28  ( unknown)  conf=0.5
+      "The 70,000 aren't getting you're you're estimating that everybody's gonna take a free license, but those 70,000 aren't taking a license right now?"
+  27:52  ( unknown)  conf=0.5
+      "are we comparing apples to apples based on your number?"
+      "So what I wanna know is of veterans currently that get a license that are fully disabled, what is that revenue equate to annually?"
+  28:06  ( unknown)  conf=0.5
+      "How do you not have that number?"
+      "That's an apples to apples comparison."
+  28:43  ( unknown)  conf=0.5
+      "I understand that, Chair."
+      "But my point is they are making an estimate based on a number that is theoretical."
+  29:09  ( unknown)  conf=0.5
+      "My last question for you was what actually what would be a DNR revenue that you would say would be sufficient?"
+
+[LEGISLATOR] Wooden   [22 turn(s)]
+  17:08  ( unknown)  conf=0.6
+      "Thank you, mister chair and members of the committee."
+      "Good to see everyone again."
+  17:27  ( unknown)  conf=0.6
+      "I know we are in front of the committee today opposing the bill."
+      "Happy to walk through some of those reasons why."
+  17:58  ( unknown)  conf=0.6
+      "We work with that nonprofit organization to work on getting veterans outdoors, getting them opportunities to recreate in the outdoors."
+      "We do so in a multitude of ways through, accessible hunting blinds, through track wheelchairs, through adaptive equipment that can be used while hunting and fishing."
+  18:32  ( unknown)  conf=0.6
+      "So currently, we have about 28,000 veterans in Michigan who qualify for the free hunting and fishing license."
+      "Of those, about 19,000 utilize it, so they actually access a license every year."
+  19:20  ( unknown)  conf=0.6
+      "We lowered that number for the hunting license because we do sell more fishing licenses in the state."
+      "At roughly 11% of that 72,000 or 70,000 number, it could equate up to a $35,000,000 loss."
+  19:58  ( unknown)  conf=0.6
+      "These are vital things that we do need to pay for."
+      "So we get it's not it's not a popular stance to take on this bill, but it is a a reality that we are facing from the department's perspective."
+  20:50  ( unknown)  conf=0.6
+      "In terms of the interest piece, I'm not sure in current statute."
+      "There is a current provision in statute where when we sell a discounted license that it directs treasury to give us general fund money to account for the discounts that we currently do offer."
+  21:12  ( unknown)  conf=0.6
+      "Sure."
+      "The issue with that is even under current statute with the discount piece, that was put in place in 2013, 2014."
+  21:31  ( unknown)  conf=0.6
+      "That would be something that clearly if we were able to somehow move forward and with that legislation in place or somehow build a mechanism to make sure we receive that discount backfill, that would obviously, you know, recuperate the department, and it would change significantly."
+  21:56  ( unknown)  conf=0.6
+      "No."
+      "Not currently."
+  22:17  ( unknown)  conf=0.6
+      "I don't have the exact percentage, but it's it's a very significant hit."
+      "Yeah."
+  22:34  ( unknown)  conf=0.6
+      "So a $50,000,000 hit is very significant."
+      "I can get you an exact percentage offline."
+  22:48  ( unknown)  conf=0.6
+      "provision and it worked, this could happen then."
+      "Yeah."
+  23:20  ( unknown)  conf=0.6
+      "Not that we've had."
+      "I won't speak for the bill sponsor."
+  23:22  ( unknown)  conf=0.6
+      "those conversations in draft."
+  26:50  ( unknown)  conf=0.6
+      "We receive data from the the VA when we when it comes to the certification to get the discount or the current free license that's offered, and then we just distribute that license."
+      "So we do track how many of those licenses we do give out."
+  27:10  ( unknown)  conf=0.6
+      "That's what we there's no way to completely it's all an estimate."
+      "Right?"
+  27:38  ( unknown)  conf=0.6
+      "Those would be that would be the total number of veterans who would qualify if this bill were enacted."
+      "When I did the revenue estimates, that was if 20% of them got a fishing license and if 11% of them got a hunting license."
+  28:04  ( unknown)  conf=0.6
+      "I can get that number for you."
+      "I don't have that with me right now."
+  28:39  ( unknown)  conf=0.6
+      "Other than the free fully disabled person that we give out."
+      "Correct?"
+  29:01  ( unknown)  conf=0.6
+      "any logical impact."
+      "Ask people when they buy a license if they are partially disabled or at this point."
+  29:17  ( unknown)  conf=0.6
+      "I would have to get you a number."
+      "I I don't wanna give you a number right now and not be accurate."

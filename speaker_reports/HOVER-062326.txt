@@ -1,0 +1,599 @@
+HEARING: HOVER-062326
+Committee code: HOVER
+================================================================================
+
+ATTENDANCE (roll call, 17) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - DeBoer
+  - Yes
+  - Spearline
+  - McCat
+  - Green
+  - Regis
+  - Wolford
+  - Miller
+  - Bohotzke
+  - Conlan
+  - McDonald
+  - Menser
+  - Weguella
+  - Energy
+  - EGLE
+  - Advisors
+  - Yep
+
+TESTIMONY (199 turns)
+--------------------------------------------------------------------------------
+[LEGISLATOR] DeBoer   [36 turn(s)]
+  07:21  ( unknown)  conf=0.6
+      "Yes."
+      "Here."
+  07:25  ( unknown)  conf=0.6
+      "Here."
+      "Cara, Brock, Green?"
+  07:34  ( unknown)  conf=0.6
+      "Bohotzke?"
+      "Here."
+  07:37  ( unknown)  conf=0.6
+      "Present."
+      "Menser?"
+  39:16  ( unknown)  conf=0.6
+      "Yeah."
+      "I can hop in."
+  39:20  ( unknown)  conf=0.6
+      "Great."
+      "Okay."
+  39:34  ( unknown)  conf=0.6
+      "And I I wanna acknowledge something as I get going here."
+      "I know Eric feels the same way because he just said it to me yesterday, that, health departments play a critical role, in this state and have have really, difficult jobs."
+  40:24  ( unknown)  conf=0.6
+      "And I wanna be clear, there's a lot of sources of E."
+      "Coli."
+  40:45  ( unknown)  conf=0.6
+      "Coli is sourced from human from from humans and and mammals."
+      "I should be a little clearer on that."
+  41:08  ( unknown)  conf=0.6
+      "And I had the pleasure when I was, working in our district down in Kalamazoo of working with some really great health departments down there, but our our septic codes are all over the place in some areas."
+      "And and I heard one of the members of the committee mentioned, you know, that there we have different soils that we have with the glaciers left us."
+  42:10  ( unknown)  conf=0.6
+      "And so I think the effort here was really to to try to, narrow down the expectations for the for the local health departments."
+      "And I'm I'm not a 100% clear."
+  43:14  ( unknown)  conf=0.6
+      "So, again, that's what I heard was primarily concern over the less than thousand gallons, which are a little bit different, but we can we can sort that out in future conversations."
+      "So I think that's that's it for me."
+  57:08  ( unknown)  conf=0.6
+      "There was a little bit too much traffic for me to, get the exchange."
+      "So what was the question?"
+  57:20  ( unknown)  conf=0.6
+      "It it it really varies regionally."
+      "I'm not trying to dodge the question, but there are there are certainly lots of sources."
+  57:47  ( unknown)  conf=0.6
+      "Yeah."
+      "Yeah."
+  57:57  ( unknown)  conf=0.6
+      "There is there there is not."
+  58:00  ( unknown)  conf=0.6
+      "the Our our partners at our partners at the health department there would probably jump at that as well because many of them also monitor beaches that, end up closed because of, waterfall."
+  58:23  ( unknown)  conf=0.6
+      "They're, under a certain size, livestock operation is is not regulated over over a certain size as regulated by Eagle."
+  01:01:27  ( unknown)  conf=0.6
+      "Yeah."
+      "And we we use e coli as an indicator of fecal contamination."
+  01:01:40  ( unknown)  conf=0.6
+      "Coli that are very dangerous and others that are relatively benign."
+      "But the main thing is is, because of it comes from animals, we use it as an indicator that there's fecal contamination in the water."
+  01:11:35  ( unknown)  conf=0.6
+      "Yeah."
+      "I I mean, virtually all rivers, lakes at some point have E."
+  01:11:57  ( unknown)  conf=0.6
+      "There are standards for what's okay with for body contact."
+      "For human beings, that's what we monitor for."
+  01:12:32  ( unknown)  conf=0.6
+      "But, we we also have the ability to do, genetic testing to see where those things come from, and there is a substantial amount of those samples when we do that that come back positive for having human contamination in them."
+  01:13:07  ( unknown)  conf=0.6
+      "Yeah."
+      "Yep."
+  01:13:17  ( unknown)  conf=0.6
+      "But, a little over 50% of our river and stream miles are impaired for body contact."
+  01:13:40  ( unknown)  conf=0.6
+      "I I I think the general answer to that is no, but I'd really have to I'd have to dig in with our with our scientists a little bit more to answer that, whether it can be propagated in the rivers, or not."
+      "But but at the end of the day, it would still be a concern whether the source is, you know, small from a human and then it grows in the water."
+  01:14:24  ( unknown)  conf=0.6
+      "That is, we have a"
+  01:14:31  ( unknown)  conf=0.6
+      "the stats in in in"
+  01:14:38  ( unknown)  conf=0.6
+      "an awesome job, and those are grant dollars that come from EGLE to support that sampling to open and close, beaches."
+      "And just within the last few years, there's some new methodologies available."
+  01:15:17  ( unknown)  conf=0.6
+      "Partners in the room might actually be able to answer that, that better than I can."
+      "It is it is wide spread."
+  01:15:43  ( unknown)  conf=0.6
+      "Yeah."
+      "Yep."
+  01:16:02  ( unknown)  conf=0.6
+      "The you can actually any citizen can go online and check it out."
+      "It's called Beach Guard, and folks can go and check out the results from all those local beach sampling and see"
+  01:16:33  ( unknown)  conf=0.6
+      "about."
+      "Yeah."
+  01:16:52  ( unknown)  conf=0.6
+      "No."
+      "I'm sorry."
+  01:17:12  ( unknown)  conf=0.6
+      "And, again, it's probably other that they, that they answer that."
+  01:18:50  ( unknown)  conf=0.6
+      "Yeah."
+      "There's there's certainly is an increased risk of disease transmission from human waste versus some of the other sources."
+
+[LEGISLATOR] Brock   [9 turn(s)]
+  07:39  ( unknown)  conf=0.6
+      "Weguella?"
+      "Here."
+  21:08  ( unknown)  conf=0.6
+      "Thank thank you, mister chair."
+      "Thank you folks for being here."
+  21:11  ( unknown)  conf=0.6
+      "be honest."
+      "You know, I play a subsurface, sewage disposal expert on TV, but I don't know anything about it."
+  21:26  ( unknown)  conf=0.6
+      "What what what is, like, a real world problem or issue that has been caused by this?"
+  23:33  ( unknown)  conf=0.6
+      "So so, essentially, they're allowing"
+  23:37  ( unknown)  conf=0.6
+      "to be built that wouldn't have been built before or prior?"
+      "Yeah."
+  25:04  ( unknown)  conf=0.6
+      "criteria."
+      "Okay."
+  01:14:26  ( unknown)  conf=0.6
+      "a a grant program that goes to local health departments."
+      "I apologize."
+  01:14:33  ( unknown)  conf=0.6
+      "front of me right now, but, our local partners and health departments do"
+
+[WITNESS] Norm Hess  -  Michigan Association for Local Public Health   [17 turn(s)]
+  09:12  ( unknown)  conf=0.5
+      "Chairperson de Beauijer, members of the committee, thank you for the opportunity to speak with you today."
+      "My name is Norm Hess."
+  10:02  (+support)  conf=0.65
+      "We support strong environmental protections."
+      "We support evidence based decision making, and we support policies that protect Michigan's natural resources and public health."
+  10:34  ( unknown)  conf=0.5
+      "They are the local face of government for residents seeking answers about environmental health requirements and regulations."
+      "Over the past several years, we've seen a troubling pattern."
+  11:26  ( unknown)  conf=0.5
+      "The issue is whether stakeholders, local governments, and Michigan citizens are being given a meaningful opportunity to understand, discuss, and provide input on policies that affect them before those policies are effectively put into practice."
+      "One example of our concern is that last summer, EGLE made a controversial decision to include new language in local health department contracts related to a document from 1994 known as the Michigan criteria for subsurface sewage disposal."
+  12:23  ( unknown)  conf=0.5
+      "We are not asking this committee to resolve technical issues."
+      "We are asking you to consider whether current processes adequately promote transparency, accountability, stakeholder participation, and meaningful public engagement when significant policy changes are being implemented."
+  16:05  ( unknown)  conf=0.5
+      "So in conclusion, we're ask we are asking EGLE to restart true collaborative planning processes that ensure citizens, local governments, and implementation partners have a meaningful voice in decisions that affect their communities."
+      "We believe these are fundamental principles of good government regardless of the policy area involved."
+  19:06  ( unknown)  conf=0.5
+      "Yes."
+      "It was communicated through the contract language that, EGLE has with local health departments."
+  19:28  ( unknown)  conf=0.5
+      "They wouldn't have money for the other essential local public health services."
+  20:23  ( unknown)  conf=0.5
+      "No."
+      "You're not asking us or, not"
+  28:19  ( unknown)  conf=0.5
+      "Well, I'll say I don't know."
+      "I don't know why."
+  28:41  ( unknown)  conf=0.5
+      "So I'm I'm somewhat at a loss."
+  29:17  ( unknown)  conf=0.5
+      "Well, we started, by writing a letter to Eric Oswald, who is the director of drinking water and environmental health."
+      "And that letter was was responded to by the attorney general after some time."
+  48:43  ( unknown)  conf=0.5
+      "It is true that the comprehensive agreement is administered by MDHHS."
+      "Money comes over from EGLE for that portion of the what's called essential local health services."
+  49:19  ( unknown)  conf=0.5
+      "They said, you you have to sign the contract as it is or else you are not going to get the money for all these other essential local public."
+      "That was our understanding."
+  01:17:19  ( unknown)  conf=0.5
+      "Yeah."
+      "I've lost my subject matter expert."
+  01:17:29  ( unknown)  conf=0.5
+      "I don't have specifics on what if there would be a fee on that, but I can find out and get back."
+  01:20:19  ( unknown)  conf=0.5
+      "I wrote my letter on October 21, and I received a response from the attorney general on February 20."
+      "Okay."
+
+[LEGISLATOR] Miller   [23 turn(s)]
+  17:13  ( unknown)  conf=0.6
+      "The way that it's, you know, the way that it stands up right now is we don't really have a strong understanding and belief in how they've made these changes."
+      "And so when we have to work with our local constituents, we work with, our people, we we have to go back to Eagle to try to get an understanding."
+  17:58  ( unknown)  conf=0.6
+      "And now I can't do something that maybe next door we did five years ago."
+      "I I can't do that because Eagle has changed its interpretation, what we can do."
+  18:18  ( unknown)  conf=0.6
+      "It's the logic behind the change was just it's a new interpretation, and that's that's what I've received from them."
+      "It's how they've interpreted their the lawyer from the AG's office gave them their interpretation of what the code is, what the subsurface criteria, what it really means."
+  21:35  ( unknown)  conf=0.6
+      "Well, with the new interpretation, the the way that it they set up for, like, a variance now, under the subsurface criteria, one of the examples is there was a it was a wine tasting room that local health department went out."
+      "The soils were heavy, high ground water, so it didn't meet subsurface criteria at its face."
+  22:21  ( unknown)  conf=0.6
+      "So it goes to part twenty two."
+      "And when part twenty two reviews it, they tell the they give the people they say that, well, it doesn't fall under a part twenty two permit."
+  22:44  ( unknown)  conf=0.6
+      "When we go out and do a permit, we're required to go out and before it's covered to final the permit, is what we call it."
+      "So we make sure what was in the permit and the elevations, locations, and all that stuff was actually followed by the contractor."
+  23:28  ( unknown)  conf=0.6
+      "And so they just issue them, let them go, and they can build their system."
+  23:44  ( unknown)  conf=0.6
+      "No."
+      "I mean, other changes of allowing us in the subsurface criteria less than 1,000 gallons."
+  24:12  ( unknown)  conf=0.6
+      "You're talking 80 gallons a day."
+      "So we would have the ability to use our local code to be able to design the system, deny the system, do what we need it to do in the past."
+  24:54  ( unknown)  conf=0.6
+      "Now we can't do that because we have to stay with the subsurface criteria unless we are as stringent as subsurface"
+  26:39  ( unknown)  conf=0.6
+      "In a large sense, no."
+      "Not that I've seen."
+  26:58  ( unknown)  conf=0.6
+      "But in a massive scale as for the whole state, I don't believe so."
+  27:06  ( unknown)  conf=0.6
+      "I mean, that's not a perfect right?"
+      "Those are the old ones, and we we try to chase those downs."
+  28:56  ( unknown)  conf=0.6
+      "So you thank you for being here."
+      "What you're saying is alarming."
+  29:14  ( unknown)  conf=0.6
+      "What's up?"
+      "What gives here?"
+  50:09  ( unknown)  conf=0.6
+      "It's fine."
+      "It's my understanding that Eagle relied on the attorney general opinion to clarify the minimum standard."
+  50:21  ( unknown)  conf=0.6
+      "Okay."
+      "So has Eagle conducted any independent legal or scientific analysis to validate that interpretation?"
+  50:49  ( unknown)  conf=0.6
+      "I see."
+      "And to Repregas' point on the water and with data centers, which was an excellent point, Do you also have scientific data that substantiates what you just said?"
+  51:11  ( unknown)  conf=0.6
+      "Because there's yes."
+      "There's a few types of data centers we all know and they all use water."
+  54:49  ( unknown)  conf=0.6
+      "water down here."
+  01:08:09  ( unknown)  conf=0.6
+      "Thank you."
+      "Your presentation outlines minimum standards under state law."
+  01:08:17  ( unknown)  conf=0.6
+      "Okay."
+      "But to me, it also indicates that EGLE does not intend to pursue enforcement or consequences for noncompliance."
+  01:08:44  ( unknown)  conf=0.6
+      "But that should already be in place."
+      "And how do you ensure that those standards are actually met and will be practiced without enforcement."
+
+[LEGISLATOR] Regis   [78 turn(s)]
+  21:01  ( unknown)  conf=0.5
+      "I cannot answer."
+  25:54  ( unknown)  conf=0.5
+      "I think my question's been answered."
+      "Yeah."
+  31:27  ( unknown)  conf=0.5
+      "Good morning."
+      "I am Eric Oswald."
+  31:41  ( unknown)  conf=0.5
+      "I'll try to get a little closer to the mic here, if that helps."
+      "Sorry about that."
+  32:06  ( unknown)  conf=0.5
+      "Public act four fifty one in 1994 includes part 31, which imposes a duty on EGLE to protect and conserve the waters of the state."
+      "Part 22 rules were in turn promulgated in 1999 and adopted as as our local health department, partners, stated, the Michigan criteria for subsurface sewage disposal."
+  32:53  ( unknown)  conf=0.5
+      "And I will affirm that Eagle highly values its partnership with local health departments."
+      "Indeed, we have, probably 15 to 20 employees, right now that came from local health departments."
+  33:25  ( unknown)  conf=0.5
+      "Individual counties can establish their own standards provided they are no less stringent than, the the minimum standards laid out in the Michigan criteria."
+      "Because of this, our developers deal with a patchwork of standards that can vary from one county to another."
+  33:59  ( unknown)  conf=0.5
+      "Eagle is hopeful that that will change soon."
+      "A statewide sanitary code will minimize issues like we are facing today."
+  34:34  ( unknown)  conf=0.5
+      "Again, a lot of emails, a lot of questions, that we received from local health departments."
+      "So because of those questions, and because of, questions our own staff had, we did reach out to legal counsel for an interpretation of those rules to make sure that they are being applied correct correctly and consistently across the state."
+  35:17  ( unknown)  conf=0.5
+      "EGLE has provided technical assistance to the local health departments to help address deficiencies deficiencies that we have identified, and we have started to receive a lot of good and complicated questions, that we intend to respond to."
+      "Michigan law related subsurface, wastewater treatment program is complex."
+  35:51  ( unknown)  conf=0.5
+      "So as a result of that feedback, we drafted a letter that was sent to local health departments on, in in June 2025."
+      "The letter clarified minimum standards for subsurface sewage disposal to ensure consistent and correct application of the law."
+  36:22  ( unknown)  conf=0.5
+      "I was disappointed that the letter that we initiated had this intended unintended outcome."
+      "We value local health departments and consider them to be strong partners in protecting public health and our environment."
+  36:55  ( unknown)  conf=0.5
+      "Ignoring the issue is not something we can do."
+      "We have real water quality probe, problems in our state, and I can let, mister Sanders, speak to those."
+  37:35  ( unknown)  conf=0.5
+      "We will continue to work with local health departments, that are not currently meeting the minimum standards set in part 22."
+      "We believe it is possible to develop a reasonable plan to adjust deficiencies in the program within a reasonable time."
+  38:01  ( unknown)  conf=0.5
+      "We'll develop plans."
+      "We don't intend to adversely impact accreditation or funding."
+  38:20  ( unknown)  conf=0.5
+      "We do intend to affect, the implementation of the law to make sure it's consistent and, correct."
+      "So while Michigan, Oh, sorry."
+  38:53  ( unknown)  conf=0.5
+      "Lastly, why why does this matter?"
+      "We are seeing increased impairment of our bodies of water across the state."
+  43:29  ( unknown)  conf=0.5
+      "Thanks thanks, Jared."
+      "Before I before I conclude here, I just wanna give some, scope on this."
+  44:07  ( unknown)  conf=0.5
+      "63% should not see any change resulting from the clarification."
+      "The other 16 accounted for only 137 non residential permits, in 2024, less than 1%."
+  44:37  ( unknown)  conf=0.5
+      "Thank you for your attention to the issue, and we're available to answer any questions."
+  44:50  ( unknown)  conf=0.5
+      "Thank you, mister chair."
+      "Is there any correlation between the new changes for subsurface disposal of approval for construction of data centers in our state?"
+  45:00  ( unknown)  conf=0.5
+      "No."
+      "Not that I'm aware of."
+  45:08  ( unknown)  conf=0.5
+      "Can you speak up, please?"
+  45:10  ( unknown)  conf=0.5
+      "I'm sorry."
+      "Again, no."
+  45:14  ( unknown)  conf=0.5
+      "You don't think or you don't are you are you certain or you don't think?"
+  45:17  ( unknown)  conf=0.5
+      "I'm I'm fairly certain, but data centers run a gamut of different the way they handle their water varies vastly between what type of cooling system they use."
+      "So I can't sit here and say carte blanche, that there won't be a data center that discharges under a thousand gallons."
+  45:37  ( unknown)  conf=0.5
+      "Well, I we'd know that the the current proposed projects in the state are are operating on a closed loop system."
+      "So I'm not referring to that part of the of the water usage, but what about the other parts of the water usage for the data centers?"
+  45:52  ( unknown)  conf=0.5
+      "Yeah."
+      "It depends on the on the size, how many people they have working there."
+  46:07  ( unknown)  conf=0.5
+      "But I don't know for sure."
+      "I don't I don't have the specifics that I can give you."
+  46:10  ( unknown)  conf=0.5
+      "Could you send me this could you get those specifics and send it to me?"
+      "Okay."
+  46:41  ( unknown)  conf=0.5
+      "Yeah."
+      "So so basically, we weren't aware of issues."
+  47:10  ( unknown)  conf=0.5
+      "So again, it's a small fraction of subsurface sewage disposal in the state, but it's it's important that we get it right."
+  47:57  ( unknown)  conf=0.5
+      "We we did not do that."
+      "Eagle doesn't control those."
+  48:10  ( unknown)  conf=0.5
+      "We have not withhold held a single dollar from anyone, based on this new interpretation."
+  48:25  ( unknown)  conf=0.5
+      "New language was put into the contracts, with local health."
+      "Some of them crossed that language out, signed the contract, but no to my knowledge, those that money the bulk of that money comes through Department of Health and Human Services, and and there was no with with withholding of any resources."
+  50:37  ( unknown)  conf=0.5
+      "We we are relying on that opinion, the information, the clarification we got from the AG's office."
+      "We have not conducted."
+  51:02  ( unknown)  conf=0.5
+      "I can look at the individual circumstances for data centers in the state to see what they're discharging."
+      "So I I will I will try and do that and get back with this committee on that."
+  53:56  ( unknown)  conf=0.5
+      "I I can't point to a catastrophic, drinking water from the ground water or you're installing one of these, you know, 25 feet from a stream, and the soil conditions are such, the stuff is gonna migrate into the stream."
+      "Sure."
+  54:13  ( unknown)  conf=0.5
+      "has that occurred?"
+  54:15  ( unknown)  conf=0.5
+      "you that."
+      "I'd have to I'd have to do some research."
+  54:32  ( unknown)  conf=0.5
+      "I can get just at least one"
+  54:34  ( unknown)  conf=0.5
+      "a septic tank should have been permitted into ground water."
+  54:37  ( unknown)  conf=0.5
+      "Not not a good not a good policy."
+  54:41  ( unknown)  conf=0.5
+      "No."
+      "Into ground into ground water."
+  54:47  ( unknown)  conf=0.5
+      "septic tank in."
+      "You got ground"
+  54:49  ( unknown)  conf=0.5
+      "The soil treats it, naturally treats the sewage before it goes in."
+  54:55  ( unknown)  conf=0.5
+      "Yeah."
+      "I I get it."
+  55:18  ( unknown)  conf=0.5
+      "So I am not it's not my intention to withhold a single penny from local health."
+  55:48  ( unknown)  conf=0.5
+      "Small."
+      "Right."
+  55:59  ( unknown)  conf=0.5
+      "Where we found that they weren't following local codes, and that"
+  56:15  ( unknown)  conf=0.5
+      "that are allowed."
+  56:19  ( unknown)  conf=0.5
+      "I I can't speak to that."
+  56:44  ( unknown)  conf=0.5
+      "depends on your definition of catastrophic."
+  56:49  ( unknown)  conf=0.5
+      "a stream and it's getting e coli in it from one of these Right."
+      "Probably that to me, that's"
+  56:57  ( unknown)  conf=0.5
+      "Into a well, it depends."
+      "I mean, if you've got But"
+  57:03  ( unknown)  conf=0.5
+      "Defer to to Jared on that on that question if Jared can answer that."
+  57:14  ( unknown)  conf=0.5
+      "Is the primary contribution of e coli to to streams?"
+      "Is that my paraphrasing?"
+  59:59  ( unknown)  conf=0.5
+      "Again, on on the scale of it, it it's small."
+      "But to those people that are impacted by, improperly installed sewage disposal septic systems, the the impact, you know, can be catastrophic to an individual."
+  01:00:17  ( unknown)  conf=0.5
+      "Probably hundreds of people we're talking about, but it's still very important to those individuals."
+      "What's the second part of your"
+  01:00:30  ( unknown)  conf=0.5
+      "to that?"
+      "I believe it does."
+  01:00:47  ( unknown)  conf=0.5
+      "So we reached out to the to the AG to get a clarification, and this was a clarification that came back."
+      "And and I'm required, to enforce the laws of the state."
+  01:01:23  ( unknown)  conf=0.5
+      "It can get them very sick very quickly."
+      "Yes."
+  01:02:32  ( unknown)  conf=0.5
+      "Thank you, mister chair."
+      "So to me, this is just another blaring example of why people, the trust in government has declined rapidly under the the past couple decades, I would say."
+  01:03:03  ( unknown)  conf=0.5
+      "What we're not hearing is conversations that were had between, EGLE and the local health officials who they're they're the people on the ground."
+      "You are the overreaching state department above, and you're listening and taking your direction from an attorney general that does not have a very good reputation of of proper interpretation sometimes of the law that the legislature has made."
+  01:04:01  ( unknown)  conf=0.5
+      "I guess I don't have a question."
+      "Thank you."
+  01:04:37  ( unknown)  conf=0.5
+      "So we're we are almost at we believe this year, by the end of this year, we will have removed a 125,000 lead service lines from the state."
+  01:04:53  ( unknown)  conf=0.5
+      "We're probably about 20%."
+  01:05:01  ( unknown)  conf=0.5
+      "We are on pace right now, and I will say that the goal is gonna be pulled back by the EPA's EPA's lead and copper rule improvements to 20 by three years, to 2030."
+      "I'm sorry."
+  01:05:14  ( unknown)  conf=0.5
+      "So but we're on pace."
+      "But I will tell you, funding is gonna jeopardize that that pace."
+  01:05:32  ( unknown)  conf=0.5
+      "We we are on pace right now."
+      "Okay."
+  01:05:46  ( unknown)  conf=0.5
+      "We have a contract with Water Research Foundation to study five drinking water plants in the state."
+      "Currently, there is no, agreed methodology for even sampling, so we're trying to contribute to that effort to come up with a standard methodology for sampling microplastics."
+  01:08:28  ( unknown)  conf=0.5
+      "We don't at this time."
+      "We we we're developing a plan similar to when we when we get into an agreement with a a local water utility."
+  01:08:55  ( unknown)  conf=0.5
+      "That's that's the tool."
+  01:11:33  ( unknown)  conf=0.5
+      "Again, that'd be I'd refer to Jared on that question."
+  01:18:11  ( unknown)  conf=0.5
+      "Yeah."
+      "I mean, e coli is an indicator for we're, you know, we're we're looking for fecal coliforms, things like that that come from humans that can infect humans."
+  01:18:43  ( unknown)  conf=0.5
+      "Correct."
+      "It's it's an indicator that we use."
+  01:19:29  ( unknown)  conf=0.5
+      "Yeah."
+      "Definitely."
+  01:19:46  ( unknown)  conf=0.5
+      "Definitely."
+      "And the stakeholder involvement in working out issues like we're talking about here, could definitely be improved by a statewide sanitary code."
+
+[LEGISLATOR] Wolford   [10 turn(s)]
+  27:21  ( unknown)  conf=0.6
+      "Thank you, chair."
+      "I have a very simple question for you, and I'd like an answer for it if if you're so inclined."
+  27:56  ( unknown)  conf=0.6
+      "So what do you think, out of all of these questions and everything boiled down, what's the agenda?"
+      "What's the why?"
+  01:06:26  ( unknown)  conf=0.6
+      "Thank you, chair."
+      "Thank you for being here today."
+  01:06:46  ( unknown)  conf=0.6
+      "This is going off a box of water."
+      "And you, just like all of the other departments that come in here, you work in your slick talk on we need more money."
+  01:07:11  ( unknown)  conf=0.6
+      "You're you're you're focused on the wrong issues."
+      "To representative Schreiber's, point, there's there's bigger fish to fry, so to speak."
+  01:07:37  ( unknown)  conf=0.6
+      "So follow the law, follow the constitution, and let locals do their job."
+      "It's not unconstitutional, fourth, fictitious parents of the government."
+  01:07:55  ( unknown)  conf=0.6
+      "You make $200,000 a year, give or take, and you run a big department."
+      "So, let let's get your house in order."
+  01:20:08  ( unknown)  conf=0.6
+      "Thank you, chair."
+      "Just very quickly, you mentioned earlier it was a day or two that you waited for a response."
+  01:20:26  ( unknown)  conf=0.6
+      "So, probably not very good follow-up, I would assume."
+      "I'll answer it for you."
+  01:20:53  ( unknown)  conf=0.6
+      "Thank you, sir."
+      "Thank you, chair."
+
+[WITNESS] Dylan Gephardt   [3 turn(s)]
+  30:33  ( unknown)  conf=0.5
+      "Well, thank you, mister chair."
+  30:37  ( unknown)  conf=0.5
+      "Committee for the opportunity to, testify before you today, kind of answer some of the questions and statements that were made earlier by our partners from the local health space."
+      "My name is Dylan Gephardt."
+  31:02  ( unknown)  conf=0.5
+      "Eric will have a a short presentation on sort of the specific concerns we heard on this, what might be interpreted as a change to the subsurface discharge rules, and answer that kind of question kind of specifically."
+      "And I know we had some sort of general charges as to our process and how we collaborate with stakeholders that are I think are important to respond to as well."
+
+[LEGISLATOR] Shriver   [8 turn(s)]
+  49:48  ( unknown)  conf=0.6
+      "on that for a minute."
+  01:04:09  ( unknown)  conf=0.6
+      "Thank you, mister chair."
+      "When you ask the average Michigan resident about water, two things come to their mind, the Flint water crisis and microplastics."
+  01:04:34  ( unknown)  conf=0.6
+      "What is the progress on that?"
+  01:04:46  ( unknown)  conf=0.6
+      "To to to put it in terms that, you know, the average Michigan resident won't understand, what's the percent to completion?"
+  01:04:56  ( unknown)  conf=0.6
+      "20%."
+      "Are you on are you on pace for the 2041 goal?"
+  01:05:31  ( unknown)  conf=0.6
+      "But you're on but you're on pace?"
+  01:05:35  ( unknown)  conf=0.6
+      "And then and then as far as, microplastics go, you're you're currently monitoring and trying to measure the, level of microplastics in the water."
+      "What what's the progress on that?"
+  01:06:19  ( unknown)  conf=0.6
+      "Looking forward to hearing about that."
+      "Thank you."
+
+[LEGISLATOR] Metzer   [6 turn(s)]
+  51:25  ( unknown)  conf=0.561
+      "Thank you, chair."
+      "You know, we have both groups here."
+  51:40  ( unknown)  conf=0.561
+      "We we can put a house sergeant in there, you know, as a referee, but you we've we we've got both groups here."
+      "One group says the other group's not answering them."
+  59:11  ( unknown)  conf=0.561
+      "My question was answered."
+      "Thank you."
+  01:17:38  ( unknown)  conf=0.561
+      "Thank you, mister chair."
+      "I'm gonna go out"
+  01:19:00  ( unknown)  conf=0.561
+      "Thank you, mister chair."
+      "As long as we have these experts here, we have been, you know, debating over the years about having a statewide septic code, which you mentioned earlier."
+  01:19:22  ( unknown)  conf=0.561
+      "Would that help?"
+      "Or you mentioned all the different soils."
+
+[LEGISLATOR] Green   [5 turn(s)]
+  01:14:10  ( unknown)  conf=0.6
+      "So just to go just a question off of that."
+      "If a local community that has, like, a lake that kids swim in and stuff, do you have a program that they can bring in a sample of their water to have it tested?"
+  01:15:05  ( unknown)  conf=0.6
+      "So so I'm clear."
+      "So every county then has this available to them, or does not every county take these grants?"
+  01:15:36  ( unknown)  conf=0.6
+      "Is there, like, a state link available to residents to be able to find that out then?"
+  01:16:13  ( unknown)  conf=0.6
+      "So but this is this is not just public beaches, though."
+      "This is what I'm I'm talking, like, there's a lot of local swimming holes, like, in Oakland County, Macomb County, Lapeer, Saint Clair County that people so that's the it's not the necessarily the public access ones."
+  01:16:39  ( unknown)  conf=0.6
+      "The and so the grant program that you discussed, is that where, like, a parent could take or a sample of water to the local health department?"
+      "Is that what the grant is for?"
+
+[LEGISLATOR] Bohotzke   [4 turn(s)]
+  01:17:41  ( unknown)  conf=0.537
+      "on a limb here and assume that I'm the only person up on this dais that has done water quality testing and tested water for e coli."
+      "So thank you all for being here."
+  01:18:35  ( unknown)  conf=0.537
+      "Correct."
+      "Thank you."
+  01:18:40  ( unknown)  conf=0.537
+      "Coli might be an indicator for in the coliform."
+      "Yeah."
+  01:18:47  ( unknown)  conf=0.537
+      "So Agreed."
+      "Thank you."

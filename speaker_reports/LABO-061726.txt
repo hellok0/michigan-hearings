@@ -1,0 +1,151 @@
+HEARING: LABO-061726
+Committee code: LABO
+================================================================================
+
+ATTENDANCE (roll call, 7) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - Arno
+  - Robinson
+  - Werkle
+  - Cabot
+  - Artis
+  - County
+  - Michigan
+
+TESTIMONY (44 turns)
+--------------------------------------------------------------------------------
+[WITNESS] Joe Steele  -  LIFT   [17 turn(s)]
+  02:51  ( unknown)  conf=0.5
+      "Chair Jenkins Arno."
+      "Here."
+  02:55  ( unknown)  conf=0.5
+      "Here."
+      "Cabot."
+  02:59  ( unknown)  conf=0.5
+      "Madam chair, majority of members are present in the form."
+  16:11  ( unknown)  conf=0.5
+      "Thank you, representative Aragona."
+      "Thank you, chair Jenkins Arno, vice chairs Robinson and Martis, and, distinguished members of the committee."
+  16:32  (+support)  conf=0.65
+      "For those who don't know about Lyft, we're a operated by a Michigan based nonprofit, the American Lightweight Materials Manufacturing Innovation Institute, a public private partnership that was established twelve years ago to connect industry, academia, government, to accelerate advanced materials development, manufacturing processes, systems engineering, and talent development in support of our national defense and US industrial base."
+  17:38  ( unknown)  conf=0.5
+      "At Lyft, we're leading the nation along with our industrial partners to develop the materials necessary for improved hypersonic flight."
+      "In fact, right now, as we speak at our facility in Corktown, Lyft is hosting a hypersonic summit, including a presentation from the senior official for scaled hypersonics in the office of the assistant secretary of war for critical technologies, the senior materials lead in the office of the Undersecretary of War for Research and Engineering's Advanced Materials Office, along with our partners at Lockheed Martin, Siemens Digital Technologies, Cadence Design Systems, and Northrop Grumman."
+  18:34  ( unknown)  conf=0.5
+      "This is the same scenario we ran into twelve years ago, in the establishment of Lyft where the federal government invested $70,000,000 in this nonprofit, which became Lyft."
+      "The state then supported standing up Lyft with $10,000,000 that enabled us to build out our now world class facility."
+  19:06  ( unknown)  conf=0.5
+      "Well, as mentioned, these systems are key to our national defense."
+      "We need to ensure that we are not just keeping pace with but surpassing other technologies of our global adversaries."
+  19:43  ( unknown)  conf=0.5
+      "In the fiscal year 2023, National Defense Authorization Act or NDAA, the Senate Armed Services Committee stated that further investment in hypersonic test infrastructure is vital to the rapid fielding of emerging hypersonic weapons technologies."
+      "The FY '26 NDAA further directs the department to evaluate enhancements to existing government facilities and support hypersonic testing and research."
+  20:28  ( unknown)  conf=0.5
+      "Today, when we at Lyft need to test our advanced materials and hypersonic light conditions, we must send the work out of state, specifically to the University of Central Florida because it was accessible and there's no comparable capability in Michigan."
+      "The facility will put Michigan once again at the center of a national defense base, but we need to act soon and first as we also have knowledge of interest in such facilities being discussed in nearby Minnesota."
+  21:25  ( unknown)  conf=0.5
+      "Third, heat is designed as a shared multi use asset that will serve not only lift but our current partners and future partners across the defense industrial base, such as Lockheed Martin General Dynamics who require reliable, repeatable, and high throughput testing to qualify materials and designs for hypersonic and other extreme environments."
+      "When running at full capacity, we expect this facility to run about eight times a day for about sixty seconds at a time with the sound equivalent of that of a leaf blower."
+  22:16  ( unknown)  conf=0.5
+      "Those tools are already being applied to hypersonics and extreme environment applications."
+      "The logical next step is to pair that digital and manufacturing strength with world class test infrastructure here in Michigan so we can take materials from concept to prototype to validate the performance end to end right here within the state."
+  23:12  ( unknown)  conf=0.5
+      "So with your support, we can seize the moment, solidify Michigan's role as the arsenal of doc democracy for decades to come, and ensure that we are not just participating in, but leading the next era of hypersonics and extreme environment innovation."
+      "Thank you for your consideration and your continued support in Michigan's role in our national defense, and I'll be happy to answer any questions."
+  23:47  ( unknown)  conf=0.5
+      "No."
+      "The federal dollars were in the f y twenty four budget."
+  24:09  ( unknown)  conf=0.5
+      "think it it will be a, and, and and add on to what is happening at Selfridge and really continue to position that base as a real national asset for, for the nation."
+      "So not the direct correlation, as we're testing just materials and those, flying missions are while important to the state of Michigan, this is another critical component, that is, a key interest to the Department of War going forward as a critical technology area."
+  25:12  ( unknown)  conf=0.5
+      "It will be at the Selfridge campus campus."
+      "We're bringing the equipment to our Corktown facility, first while we continue to work with and and and get this Selfridge position permanently set up."
+  25:42  ( unknown)  conf=0.5
+      "Thanks for having me."
+
+[LEGISLATOR] Artis   [5 turn(s)]
+  13:42  ( unknown)  conf=0.554
+      "Yeah."
+      "Thank you."
+  14:00  ( unknown)  conf=0.554
+      "And we just need to work with our federal partners because this sort of funding is not working."
+      "When you're reliant as you I think you just explained this to her well."
+  14:20  ( unknown)  conf=0.554
+      "That funding is not gonna be there for you guys."
+      "So we need to work with our federal partners to fix this and thank you."
+  46:30  ( unknown)  conf=0.554
+      "Thank you, madam chair."
+      "So you guys were founded five years ago."
+  46:34  ( unknown)  conf=0.554
+      "Where would you like to be five years from now?"
+
+[WITNESS] Greg Anderson  -  Goodwill of Greater Detroit   [15 turn(s)]
+  34:50  ( unknown)  conf=0.5
+      "Thank you, Rep Carter."
+      "Good morning, madam chair and members of the subcommittee, here."
+  35:18  ( unknown)  conf=0.5
+      "Goodwill of Greater Detroit has three nonprofit businesses."
+      "The purpose of those businesses is to help us with transitional and permanent employment for people that we serve, especially those that have chronic unemployment issues."
+  35:42  ( unknown)  conf=0.5
+      "How that program works is circuit courts as well as district courts."
+      "Instead of sending first and second time offenders to prison, they can send those individuals to us."
+  36:14  ( unknown)  conf=0.5
+      "His name is Adam."
+      "Unfortunately, he was in the criminal justice system, in Wayne County."
+  36:33  ( unknown)  conf=0.5
+      "And this judge asked him, what happened?"
+      "You were successful."
+  36:38  ( unknown)  conf=0.5
+      "My mom passed, and it was difficult for me."
+      "I was homeless after that."
+  36:55  ( unknown)  conf=0.5
+      "Will visit the Ironworkers Union Local twenty five here soon, and graduates in July."
+      "We also were able to assist him with getting a vehicle, and he does roofing."
+  37:28  ( unknown)  conf=0.5
+      "And what that means is diversion means while you're on probation, you don't have any contact with law enforcement."
+      "You successfully complete probation, and you do not catch any other cases while you are on probation."
+  38:04  ( unknown)  conf=0.5
+      "We have already saved the state since 2021 with a $9,000,000 investment, $48,000,000."
+      "My hopes is that, you know, you guys continue to support us so we can support families and continue to invest in Michiganders, ability to help us make this a prosperity region."
+  38:36  ( unknown)  conf=0.5
+      "Good questions."
+      "For operations, but most importantly, barrier removal, this population has a lot of barriers."
+  38:47  ( unknown)  conf=0.5
+      "A number of different barriers that we have to move remove."
+      "So between programmatic and operational costs and, direct participant costs for supportive services."
+  39:16  ( unknown)  conf=0.5
+      "Yeah."
+      "So for every $3,000,000, there's a $16,000,000 cost savings to the state of Michigan."
+  39:50  ( unknown)  conf=0.5
+      "So it's to sustain what we have right now."
+      "In Oakland County, we will be able to serve more people, but in Wayne County, it'll be the same number of individuals."
+  40:10  ( unknown)  conf=0.5
+      "Yeah."
+      "So we we've always are filling out applications for philanthropic and grant support, federal dollars as well."
+  40:34  ( unknown)  conf=0.5
+      "So, that's some of the the struggles of making sure we have sustainable funding."
+
+[WITNESS] Rep Grant  -  Metro Detroit Black Chamber of Commerce   [2 turn(s)]
+  41:05  ( unknown)  conf=0.4
+      "Good morning."
+      "And I do believe we have, some informational pieces that we have for you all."
+  41:34  ( unknown)  conf=0.4
+      "Through its programming, it has helped connect members to approximately their members to approximately $12,000,000 in direct funding."
+      "They have several programs like Capital Connect, which has helped to facilitate more than $6,700,000 in funding for small businesses, as well as BizWhiz, which provides technical assistance and business coaching to entrepreneurs who are navigating the challenges of growing a business."
+
+[WITNESS] Rep Snyder  -  City of Roosevelt Park   [5 turn(s)]
+  01:04:12  ( unknown)  conf=0.4
+      "Thank you, madam chair."
+      "I have with me on Zoom, City Roosevelt Park city administer, city manager, Jared Olsen."
+  01:04:52  ( unknown)  conf=0.4
+      "So with that, it is utilized as the only election, polling precinct in the city as well as for other events."
+      "But this would really be modernizing a facility that was built in the nineteen seventies with, some more, up to date, entryway windows and some roof upgrades."
+  01:05:36  ( unknown)  conf=0.4
+      "You are on mute."
+  01:06:12  ( unknown)  conf=0.4
+      "So I I'll just say that the facility is a 1,700 square foot, building, centrally located, a a flexible space, room for activities, yoga classes, birthday parties."
+      "It is not charged for, the the school district in certain types of, after school programming, and and they don't charge for that."
+  01:06:56  ( unknown)  conf=0.4
+      "This is a a wonderful community that was gifted to me by the representative Van Werkom in redistricting."
+      "So I I thank thank him for that."

@@ -1,0 +1,617 @@
+HEARING: HOME-062426
+Committee code: HOME
+================================================================================
+
+ATTENDANCE (roll call, 10) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - Meermin
+  - Menser
+  - Conlon
+  - Alrighty
+  - Bierlein
+  - Paquette
+  - Green
+  - McDonald
+  - Alright
+  - Bierlin
+
+TESTIMONY (203 turns)
+--------------------------------------------------------------------------------
+[LEGISLATOR] Meermin   [28 turn(s)]
+  06:55  ( unknown)  conf=0.6
+      "The House Committee on Homeland Security and Foreign Influence will come to order."
+      "Will Clerk please take attendance?"
+  07:10  ( unknown)  conf=0.6
+      "Alrighty."
+      "Representative, minority vice chair Minster moves to approve the minutes of the June 17 meeting without objection, so move."
+  07:50  ( unknown)  conf=0.6
+      "Alright."
+      "Well, welcome."
+  08:00  ( unknown)  conf=0.6
+      "Bierlin."
+      "Sorry."
+  08:21  ( unknown)  conf=0.6
+      "I hear they're doing a lot of great things with the FIFA stadiums in the grass world."
+      "A lot of good things, but when it comes to agricultural expertise, MSU is relied on around the world."
+  09:01  ( unknown)  conf=0.6
+      "And then please introduce yourselves and then start your presentation."
+      "Thank you so much for being here on behalf of both chair Beerline and myself."
+  27:35  ( unknown)  conf=0.6
+      "No."
+      "Thank you, doctor, for for that."
+  27:43  ( unknown)  conf=0.6
+      "What you're dealing with, and we will we will do those."
+      "One of my questions is is the, this drophilia fly Mhmm."
+  28:23  ( unknown)  conf=0.6
+      "Yeah."
+      "And and with the the species that are not here yet, and and you you you listed a a few there or had the pictures of them."
+  28:48  ( unknown)  conf=0.6
+      "What is that relationship or is that information freely, you know, collaborated with with the individuals that are on the front line, so to speak?"
+  30:25  ( unknown)  conf=0.6
+      "Yeah."
+      "Very very good information."
+  30:39  ( unknown)  conf=0.6
+      "But anyway, representative Green?"
+  36:47  ( unknown)  conf=0.6
+      "We have a couple more questions in the entomology world, I believe."
+      "Minority vice chair Minster."
+  38:03  ( unknown)  conf=0.6
+      "And we'll do one more question, and then we'll let you finish the presentation."
+      "Our resident farmer representing the government."
+  40:20  ( unknown)  conf=0.6
+      "Thank you."
+      "And I do have a tick question, but I'm gonna keep that to the end."
+  59:31  ( unknown)  conf=0.6
+      "Yeah."
+      "If we could keep going, we are getting close on time."
+  01:15:49  ( unknown)  conf=0.6
+      "Well, thank you."
+      "Sorry."
+  01:17:13  ( unknown)  conf=0.6
+      "Interesting."
+      "Interesting."
+  01:18:05  ( unknown)  conf=0.6
+      "But rep Shriver."
+  01:23:31  ( unknown)  conf=0.6
+      "Thank you."
+      "Thank you."
+  01:25:57  ( unknown)  conf=0.6
+      "Thank you."
+      "On on the biological security, especially on the fungus, because, you know, what they caught with the U of M, researchers, you know, that barley wheat fungus that made it unedible, and it and it was something that was being researched, I'll say, to be more effective, and that's the product that was brought."
+  01:26:48  ( unknown)  conf=0.6
+      "And I'm sure maybe bringing in a bad insect would be a little different, you know, but but how how how do you at your university level ensure that that, you know, is a remote thing?"
+  01:27:39  ( unknown)  conf=0.6
+      "Security clearances or background checks, do you guys do those with with, I'd say even resident researchers, but especially when you come to foreign, resident researchers?"
+  01:27:59  ( unknown)  conf=0.6
+      "They're nodding."
+      "Okay."
+  01:28:19  ( unknown)  conf=0.6
+      "And and does MSU do any, Department of War research in the in the agricultural world, or is that specifically in in other research areas?"
+  01:28:34  ( unknown)  conf=0.6
+      "we never wanna say that, you know, we have the problem resolved, because, you know, you guys are hitting new problems every single day and even problems that aren't here yet."
+      "So we do appreciate you being here, and I'm gonna turn it over to chair Beierlein, to all"
+  01:28:49  ( unknown)  conf=0.6
+      "Well, yeah."
+      "Yeah."
+  01:29:27  ( unknown)  conf=0.6
+      "And being no absent members and no further business before the homeland security and foreign influence committee, we'll stand adjourned."
+
+[WITNESS] Rufus Isaacs  -  Michigan State University   [59 turn(s)]
+  07:01  ( unknown)  conf=0.5
+      "Chair Brook?"
+      "Present."
+  07:06  ( unknown)  conf=0.5
+      "Here."
+      "Conlon?"
+  07:33  ( unknown)  conf=0.5
+      "Chair Bierlein?"
+      "Here."
+  07:37  ( unknown)  conf=0.5
+      "McDonald?"
+      "Present."
+  09:17  ( unknown)  conf=0.5
+      "Thank you, mister chairman, and members."
+      "My name is Rufus Isaacs."
+  09:54  ( unknown)  conf=0.5
+      "Alright."
+      "So I'm presenting first, and, I think I'd like to start with a few opening comments."
+  10:25  ( unknown)  conf=0.5
+      "And we'll be describing some ongoing projects that are in the research realm and also in extension in extension that are all focused on these future threats, current threats, and how we make sure that farmers can keep producing, safe and nutritious food and fiber."
+      "So, to introduce you to the kinds of, crops that I work with, my program is the Berry Crops Entomology Program at Michigan State, and we work on Michigan blueberries."
+  11:10  ( unknown)  conf=0.5
+      "People buy those products from across Michigan."
+      "But the farmers have to deal with all the insects."
+  11:40  ( unknown)  conf=0.5
+      "And we rely on our own work here in Michigan and and work done around the world."
+      "And then if there isn't a solution, we then I then put on my research hat, and we develop research projects that can address these potentially new threats that are coming, for these crops."
+  12:17  ( unknown)  conf=0.5
+      "Some key ones, you might have heard of hemlock woolly adelgid."
+      "There's spotted lanternfly that you'll hear about later, brown marmorated stink bug."
+  12:42  ( unknown)  conf=0.5
+      "You can see the numbers up here on the screen."
+      "And Michigan's agriculture is part of the sector that gets the biggest economic impact."
+  13:19  ( unknown)  conf=0.5
+      "I'm in the College of Agriculture and Natural Resources within MSU."
+      "We work specifically with the MISIN program that's helping to look out for those, invasive pests and report them early."
+  13:43  ( unknown)  conf=0.5
+      "That's been critical for us to be able to respond to these emergency challenges."
+      "We work closely with the state agencies and with the Craft Beverage Council and in in the kinds of crops that I work in, and they help support this work as well."
+  14:33  ( unknown)  conf=0.5
+      "And so we're very fortunate that many of our commodity groups, the the growers themselves that grow these crops, raise their own funding, and that helps us focus on their immediate challenges, and they help us with some funding and guidance on on those projects."
+      "So it's really important that we have these partnerships, to support MSU."
+  15:12  ( unknown)  conf=0.5
+      "So this is a really forward looking grant."
+      "We are a team of horticulturists, plant pathologists, and entomologists working together with our extension team to think what are we gonna have to be doing to prepare these crops for 2050, and down the road when when the the pest might be different, the climate might be different, the crops might be different."
+  15:55  ( unknown)  conf=0.5
+      "And there's been a lot of research across the country since that arrived, and we're now at a point where this insect is not such an economically important pest."
+      "We can control this and give recommendations to farmers on how to do that."
+  16:19  ( unknown)  conf=0.5
+      "I'm going to spend some time talking about the one in the middle, that spotted wing drosophila that has impacted blueberry cherry and other berry crops."
+      "And then some have only just arrived, and that spotted lanternfly that's the next one across is just showing up in Southeast Michigan, and you'll get to hear about that more more today."
+  17:04  ( unknown)  conf=0.5
+      "And we are looking for these three insects on the right, which have never been recorded in Michigan."
+      "Some are from Europe, some are from Asia, and we really don't want them here."
+  17:34  ( unknown)  conf=0.5
+      "But we wanna be ready in case, in case one of these does show up and gets here somehow through those trade routes."
+      "And then we need to catch it early, and we need to have a response to that to, to stop it getting any furthering and spreading across the state."
+  18:12  ( unknown)  conf=0.5
+      "And we have these little vinegar flies like you might have in your kitchen and buzzing around, but we don't have any species here in The States until this one arrived that can cut into intact fruit and lay its eggs while that fruit is developing."
+      "So that then creates the risk of the fruit at harvest time having a larva, of the insect in there, like you can see in the bottom left photograph."
+  18:50  ( unknown)  conf=0.5
+      "And we do this a lot with partnering with the federal, state, and MSU, groups to to develop these response teams, hopefully before a pest arrives here."
+      "And we can develop that response behind the scenes and be ready if it does get detected."
+  19:24  ( unknown)  conf=0.5
+      "It was in late September."
+      "So there wasn't any risk to the crops that year, but then it gave us the winter to prepare and run some experiments, develop some information, look at what was known around the world, and then develop a plan for how Michigan growers were"
+  19:40  ( unknown)  conf=0.5
+      "subsequent years."
+      "One thing we did is crops that they work in, and we coordinated them to put out these traps and monitor in the crops that they work in, in their counties."
+  20:14  ( unknown)  conf=0.5
+      "But then when it does pick up, they can they can be prepared and and respond to that."
+      "So this kind of network is really important for these invasive pests."
+  20:49  ( unknown)  conf=0.5
+      "So you can see, these can build up to some very large numbers."
+      "But you also see a trend here where it seems like it's building."
+  21:15  ( unknown)  conf=0.5
+      "The Ag Resiliency Program grant is allowing us to now look at that historical data and think about how that could be used with all the information we can dig into out of that dataset for future, management."
+      "And this is, a postdoctoral researcher, Blake Dawson, that was hired under this funding from the legislature."
+  21:58  ( unknown)  conf=0.5
+      "So those years, we can give the farmers more kind of alerts that they have to be ready for this."
+      "In other years, on the right hand side, the insect lags behind the crop, and they might be able to pick and and do some of that without having to worry about this particular pest."
+  22:43  ( unknown)  conf=0.5
+      "You may have reasons why if they're too expensive, you don't want to use them."
+      "But we do have a number of options that farmers can now use based on the research that we've developed at MSU and the information we've pulled together."
+  23:05  ( unknown)  conf=0.5
+      "And this is now a sort of the tool that the farmers can use to look up the recommendations for their crop, for that pest, for that time of the year, and get really good information that they can, implement on their farms."
+      "But farmers don't want to be spraying."
+  23:34  ( unknown)  conf=0.5
+      "If the little larvae of the insect pests are in there, they'll come out into the salt solution."
+      "You can run it through a couple of filters after an hour, and you can very quickly tell if your fruit are insect free, which is great."
+  24:01  ( unknown)  conf=0.5
+      "So this is a low cost, approach that we're now implementing through the extension network, through the crop consultants, through others that guide the farming community, in the berries that are affected."
+      "We also have some biological tools that aren't chemical, and so we're also exploring these, biological control agents."
+  24:29  ( unknown)  conf=0.5
+      "So they're very, very small, just a couple of millimeters across."
+      "And we, not myself, but other members of The US research community, were able to go to Asia, find the natural enemies of the spotted wing drosophila, go through a very rigorous testing and evaluation process where they looked at, like, 20 different species, found the one that was laser focused on getting to spotted wing drosophila, and then go through the regulatory framework to then get permission to release these."
+  25:15  ( unknown)  conf=0.5
+      "And you can see the setup we have here to mass produce these with support from all the agencies you see underneath at the bottom of the slide."
+      "I also, in this almost last slide, wanna highlight that our research and our extension is also an opportunity for MSU students to get trained in this area, get them experience of agriculture, exposure to agriculture, learn about the research and extension and how we apply that to agriculture."
+  25:59  ( unknown)  conf=0.5
+      "We also have a couple more examples here."
+      "The gentleman on the left there is, Martin Brubaker."
+  26:23  ( unknown)  conf=0.5
+      "Emily just started a job with Michigan Blueberry Growers Association in Grand Junction, Michigan."
+      "She studied with us, went away to Wisconsin, got her master's degree, and then came back to the state and is now going to be, guiding Michigan's blueberry industry on their challenges."
+  26:49  ( unknown)  conf=0.5
+      "And he's there with our extension educator, Esmail, who works with that industry up in Traverse City area, Northwest Michigan, and with one of my graduate students, Rika, who is learning about how to, manage insects in these crop systems as part of her PhD program."
+      "So I end with this just to highlight that MSU is an educational, organization."
+  27:59  ( unknown)  conf=0.5
+      "It's the worst one that I'm dealing with personally, because because it has in the crops that I work in, it has caused damage across all of those crops, maybe except cranberries."
+      "They're too tough, for them to get into."
+  28:16  ( unknown)  conf=0.5
+      "But, yeah, it is, it is it is definitely taken up way more of our time and attention because of its economic impact."
+  28:58  ( unknown)  conf=0.5
+      "Yeah."
+      "So we do we partner with USDA APHIS, who is that agency at the federal level, and the Department of Agriculture Rural Development has inspectors as well across Michigan that works very closely with them."
+  29:43  ( unknown)  conf=0.5
+      "And in fact, when spotted wing drosophila was first found in 2010, It was found in Allegan County."
+      "I got the phone call."
+  30:07  ( unknown)  conf=0.5
+      "They then sent it to the federal lab, that's central somewhere near Washington, DC."
+      "And then we had the official, notice, like, within twenty four hours."
+  31:02  ( unknown)  conf=0.5
+      "I don't think we have a dashboard like you're describing."
+      "Anyone know of a dashboard for maybe the animal side of things?"
+  31:52  ( unknown)  conf=0.5
+      "Yeah."
+      "Could I could I just follow-up, for the specific spotted lanternfly that I mentioned earlier?"
+  32:28  ( unknown)  conf=0.5
+      "So so one thing we do is a is a weekly newsletter that goes direct to their emails."
+      "And so it it's not out there in a in a in one public place, but we do amalgamate all the information on all the pests and diseases and other issues they have to deal with and then send them that through the email network that they that they sign up for."
+  33:18  ( unknown)  conf=0.5
+      "Yeah."
+      "I'm not a plant pathologist and I don't work in corn."
+  34:18  ( unknown)  conf=0.5
+      "So it depends on the moth, but, one of those species has been found and eradicated in California."
+      "They had a very intensive eradication program for that one."
+  35:11  ( unknown)  conf=0.5
+      "eggs?"
+      "So I understand your concern, and that's that's why there is a very rigorous, testing program that took, I think, five years, of research to get through."
+  35:52  ( unknown)  conf=0.5
+      "So it was a very rigorous process, and and eventually, we did get the permit."
+      "But it only came because it's so specific to that pest."
+  36:56  ( unknown)  conf=0.5
+      "Thanks, chair."
+      "So we know that there has been cuts to the USDA and APHIS at the federal level."
+  37:24  ( unknown)  conf=0.5
+      "Yeah."
+      "That's a question above my pay grade."
+  37:48  ( unknown)  conf=0.5
+      "We could always use more funding."
+      "We could do more with more funding, but I think others are probably better able to talk about, you know, funding at the at the university or college level than I am."
+  39:00  ( unknown)  conf=0.5
+      "Yeah."
+      "So so there there is training, and some of that is done by MSU extension, teams for inspectors."
+  39:25  ( unknown)  conf=0.5
+      "And for example, there's there's a pest that we want to export out of Michigan."
+      "There's a there's a crop where we want to export out of Michigan."
+  39:55  ( unknown)  conf=0.5
+      "And now, of course, with electronic communication, we can do a lot of that, finding the best expert out there and bring them in through our programs here here to Michigan to support Michigan agriculture."
+  40:09  ( unknown)  conf=0.5
+      "don't know if that answers your question, but I think there there is a good, there is a good network of expertise out there and information flow to the right people."
+      "Thanks."
+  01:18:44  ( unknown)  conf=0.5
+      "So I I can speak to that briefly."
+      "We have seen issues like was discussed earlier, concerns about foreign, influence."
+  01:19:15  ( unknown)  conf=0.5
+      "So that's that's been a change that we've seen in the last few years, and I think now all of our research activities fall under that training program, and we have to go through there and get certified to make sure that we're not releasing anything that might be sensitive like that."
+  01:28:03  ( unknown)  conf=0.5
+      "And I'll also mention that in the training that we do in our research labs where we have students, they all they also all get this training and they get ethics training, and they're also if they're working in an area that's relevant to biosecurity, they're also required to go through the same trainings that I described earlier."
+      "Mhmm."
+  01:28:28  ( unknown)  conf=0.5
+      "I think that would be in other other colleges within the university."
+      "Okay."
+
+[LEGISLATOR] Bierlein   [15 turn(s)]
+  07:26  ( unknown)  conf=0.6
+      "The House Oversight Subcommittee on Public Health and Food Security will come to order."
+      "Will the clerk please take attendance?"
+  07:41  ( unknown)  conf=0.6
+      "Representative Green moves to approve the minutes of the June 9 meeting without objection, so ordered."
+  19:40  ( unknown)  conf=0.6
+      "going to deal with this in the"
+  33:57  ( unknown)  conf=0.6
+      "So thank you again for the first part of the presentation."
+      "I know there's more to come."
+  34:52  ( unknown)  conf=0.6
+      "Okay."
+      "My second question has to do with the wasps."
+  36:00  ( unknown)  conf=0.6
+      "It just, just that again."
+      "Right?"
+  36:11  ( unknown)  conf=0.6
+      "And when they run out of that source for where they lay their eggs, it just seems it just seems history or or or, has taught us that animals adapt and they will find a new source."
+      "Yeah."
+  36:42  ( unknown)  conf=0.6
+      "Did you have more questions?"
+      "Right."
+  36:46  ( unknown)  conf=0.6
+      "I'll move on."
+      "Oh,"
+  01:20:20  ( unknown)  conf=0.6
+      "Representative Green."
+  01:22:11  ( unknown)  conf=0.6
+      "And you guys provide that training to any level of agriculture."
+      "I'm a prime ex I have three chicken coops."
+  01:27:56  ( unknown)  conf=0.6
+      "Yes."
+      "Okay."
+  01:28:49  ( unknown)  conf=0.6
+      "set."
+      "I'll say it."
+  01:28:52  ( unknown)  conf=0.6
+      "being here."
+      "Here."
+  01:28:55  ( unknown)  conf=0.6
+      "Thank you for taking the time."
+      "Our our food security, but our food system security, and and all of the challenges that our agricultural community faces on a on a daily basis."
+
+[WITNESS] Jackie Perkins   [38 turn(s)]
+  09:27  ( unknown)  conf=0.5
+      "Hello."
+      "Thank you to the committee."
+  40:28  ( unknown)  conf=0.5
+      "Hello."
+      "Thanks again to the committee for your time today."
+  40:38  ( unknown)  conf=0.5
+      "But a lot of the principles and concepts that we're talking about today do have kind of, crossover with other crops."
+      "The principles and concepts are similar with crop production in general."
+  41:04  ( unknown)  conf=0.5
+      "So that's the, Michigan Apple Committee, the Michigan Cherry Committee, the Michigan Tree Fruit Commission, and the Michigan State Horticulture Society."
+      "So Rufus mentioned these, commodity groups, that support our research."
+  41:37  ( unknown)  conf=0.5
+      "So fostering meaningful collaborations, avoiding duplications of effort across the, research teams, and, building strong productive teams so that we can address challenges."
+      "And, having coordinated responses to emerging challenges is a big part of that."
+  42:04  ( unknown)  conf=0.5
+      "It's been spreading since then across the Eastern United States, and it does have a wide range of potential crop hosts that are relevant to Michigan, including grape, apple, plum, cherry, peach, apricot, and hops."
+      "So it eats a lot of different things."
+  42:37  ( unknown)  conf=0.5
+      "That might be familiar to you."
+      "Trying to educate the public on what this thing looks like, that they should kill it, and then let us know that they found it because, that early detection is so important for, having a good response and kind of getting ahead of the problem as it spreads."
+  43:00  ( unknown)  conf=0.5
+      "It's about an inch, an inch across or inch long and, has this bright red color, but, earlier in its life cycle, it's less less distinct."
+      "So the egg masses there that you see, in frame a, it essentially looks like a smear of mud."
+  43:42  ( unknown)  conf=0.5
+      "So we have a coordinated effort, the sponsored spotted lanternfly task force is a network of MSU research and extension along with MDAR, DNR, APHIS, basically to have a coordinated response to this as it spreads across the state."
+      "So that includes monitoring efforts in, vulnerable crops, which is a lot of our fruit crops, as well as, areas of potential introduction."
+  44:23  ( unknown)  conf=0.5
+      "A lot of this, work has been made possible from emergency funding that was provided by Project Green."
+      "So that's it was allows us to rapidly address the introduction and, have these statewide resources kind of ready and waiting, as insects spread."
+  44:57  ( unknown)  conf=0.5
+      "So, you know, growers have a toolbox of things that they use in their crops already, and so some of that research is what tools do we already have that will work against this and getting that information out to growers as well."
+      "So I will start this section by saying I am an entomologist by training, so I'm I'm also focused on insects."
+  45:33  ( unknown)  conf=0.5
+      "But one thing that I do wanna highlight is they're not often a concern the way that they are with insects."
+      "So that's not to say that we don't get foreign plant diseases coming into the country."
+  46:02  ( unknown)  conf=0.5
+      "So we have a really great network, and Rufus touched on that a little bit with APHIS and the, certification programs and things that have to, plants have to be, certified before coming into the country."
+      "And that's highly effective at stopping plant pathogens from entering the country."
+  46:35  ( unknown)  conf=0.5
+      "And so, it's not, again, that this is not a concern."
+      "It's just that it's less often a challenge that we face as far as foreign plant pathogens coming in."
+  47:21  ( unknown)  conf=0.5
+      "So there are investments that help to keep, limiting or to limit foreign plant pathogen spread."
+      "And initially, that's just partnerships with government."
+  47:52  ( unknown)  conf=0.5
+      "Disease resistance for plants is a good thing."
+      "Now it's one bullet point on this, but I put the infographic here because that's an extraordinarily complex area of research."
+  48:28  ( unknown)  conf=0.5
+      "So, that is when a disease stops reacting to fungicides that we may be using to control it, and it develops a resistance to our chemical treatments."
+      "And so we have to have resistance monitoring programs to maintain the efficacy of the fungicides that we do have."
+  48:55  ( unknown)  conf=0.5
+      "We, effectively eradicated one of these very serious diseases for stone fruit that came in from Europe."
+      "So it was detected in 2007 actually at a, MSU research station in Southwest Michigan, and, expert there saw the disease, noticed that it was different, and, quickly isolated and identified that."
+  49:38  ( unknown)  conf=0.5
+      "So, there's an interaction there between insects and diseases, that can sometimes happen with these plant viruses."
+      "So, there was a rapid eradication and removal, effort and, MSU and re MSU Research and MDARD had a a successful partnership."
+  50:16  ( unknown)  conf=0.5
+      "So just an example of that really quick, response time, these kind of quarantine, screening and response and partnership with the government made this a success story."
+      "So as much as, foreign plant pathogens aren't often a concern, we have plenty of native diseases that are that are a challenge."
+  50:56  ( unknown)  conf=0.5
+      "Again, that kind of three legged stool like Rufus talked about, the Michigan Apple Committee Committee, excuse me, for, industry funding, MSU project green, and the USDA specialty crop grant program all kind of, supported this work to develop a strategy to combat this native pathogen."
+      "And, they discovered a, treatment that you can put on the trees that actually, causes a synergistic effect that allows the tree to, defend itself better."
+  51:44  ( unknown)  conf=0.5
+      "So, fungicide resistance, is similar to antibiotic resistance, if you're familiar with those concepts."
+      "Essentially, you have a susceptible fungus that will be killed by a chemical treatment and, a small piece of that population that's a resistant fungus, maybe just one spore that has a a genetic mutation that allows it to survive a treatment, that's otherwise effective."
+  52:40  ( unknown)  conf=0.5
+      "And this this is a major concern with, with fungicides and, plant pathogens."
+      "So doctor Tim Miles has done a lot of work on fungicide resistant pathogens."
+  53:10  ( unknown)  conf=0.5
+      "Some are very resistant to this upwards of sixty, seventy, 80% resistant."
+      "So this is really key information because, one, we don't wanna keep using product that doesn't work cause then we're just spreading that gene."
+  53:37  ( unknown)  conf=0.5
+      "So sometimes there are diseases that are present in other production regions in the country."
+      "So, blueberry scorch virus and blueberry shock virus are concerns in, like, other blueberry production regions like Oregon, Washington, and New Jersey, and they spread through infected plant material, which is how a lot of these things spread, like nursery stock."
+  54:26  ( unknown)  conf=0.5
+      "So, tart cherry in particular, it faces intense competition from foreign foreign markets."
+      "So a lot of, foreign tart cherries come into The United States, and our, Michigan industry really needs exports of our cherries to for the industry to thrive."
+  54:55  ( unknown)  conf=0.5
+      "SWD, which Rufus talked about a lot, that's the spotted wing Drosophila."
+      "That's really intensified our management programs that we need to, use in fruit."
+  55:30  ( unknown)  conf=0.5
+      "So this is ongoing work, but it's been really helpful because we've been able to kind of zero in on which tools growers are using, that might be, restricting their abilities to export and which things are not a problem for export."
+      "And it's been, pretty clear, like, you know, where adjustments need to be made."
+  56:09  ( unknown)  conf=0.5
+      "There's a lot of challenges with pest management."
+      "It's a complex, part of of farming, and, one thing that's come up recently is bulletins live two."
+  56:34  ( unknown)  conf=0.5
+      "So, the BLT system is how the EPA, is addressing this, and the goal here is to avoid blanket, use restrictions on pesticides."
+      "So instead of saying you can't use something at all, they're using these kind of location and time specific restrictions to designate areas where there might be different use limitations."
+  57:11  ( unknown)  conf=0.5
+      "So compliance is on the pesticide applicators."
+      "That's their responsibility."
+  57:34  ( unknown)  conf=0.5
+      "You know, there's so much for growers to keep track of."
+      "It's essentially an extension of the pesticide label, but it's very hard to understand how to be compliant."
+  58:17  ( unknown)  conf=0.5
+      "So we do a lot of extension, and the reason I have this here is just to highlight that we turn so much of the excellent research that the university does into deliverables for growers."
+      "So lots of time spent in the field doing, training, building websites, fact sheets, scouting guides, etcetera, all to translate, research into meaningful and usable information for growers every day."
+  58:53  ( unknown)  conf=0.5
+      "I talked about pests and diseases today."
+      "That's a small piece of what growers have to manage."
+  59:25  ( unknown)  conf=0.5
+      "So with that, I wanna thank you again for your time, and I'm happy to answer questions."
+  59:37  ( unknown)  conf=0.5
+      "Can I go on a transfer?"
+      "Thank you."
+  01:25:24  ( unknown)  conf=0.5
+      "Yeah."
+      "If I may, thank you for the question."
+  01:25:53  ( unknown)  conf=0.5
+      "So that would be helpful in that way."
+
+[WITNESS] Beth Ferry   [45 turn(s)]
+  09:37  ( unknown)  conf=0.5
+      "Good morning, everyone."
+      "My name is Beth Ferry."
+  31:11  ( unknown)  conf=0.5
+      "So for the animal side of things, when we are in the middle of an outbreak, like high path avian influenza, MDARD will put out releases down to the county level of where those outbreaks are."
+      "A lot of a lot then has been talked about developing systems, and we actually just listened to a presentation from a group in Iowa that has one that's working with laboratories where farmers would report their data and the laboratories would then put into the system, and it would send out an alert."
+  59:53  ( unknown)  conf=0.5
+      "First off."
+      "Thank you, chairman for the opportunity to share with you some of the important work that we're doing here at MSU extension to protect Michigan's animal agriculture industry."
+  01:00:12  ( unknown)  conf=0.5
+      "Some of my pictures are a little graphic, but, we'll we'll keep going."
+      "We all know that farming is a really risky business."
+  01:00:37  ( unknown)  conf=0.5
+      "And every day, MSU Extension's out there helping these farmers manage and prepare for those risks."
+      "And what I wanna talk to you about today is a couple of risks for an animal disease and highly consequential disease outbreaks."
+  01:01:01  ( unknown)  conf=0.5
+      "It was put together by the Federal Reserve Bank, and you can see here that beef, coffee, eggs, and orange juice all had disease impacts that increased the cost of their products."
+      "And so we all know that our grocery bills have gotten more expensive as of late."
+  01:01:49  ( unknown)  conf=0.5
+      "And when you talk to them, they tell us that they rely heavily on low cost proteins to feed the people that they service."
+      "That's ground beef, ground pork, ground turkey, and eggs."
+  01:02:21  ( unknown)  conf=0.5
+      "Today, I'm gonna share with you some specific diseases that we work through, and those include swine influenza, highly pathogenic avian influenza, new world squirtworm, and African swine fever."
+      "First off, we're gonna talk about swine influenza."
+  01:02:58  ( unknown)  conf=0.5
+      "They get sick, they don't feel good for a couple of days, and then they get better."
+      "Right?"
+  01:03:22  ( unknown)  conf=0.5
+      "So those people with depressed immune systems, that becomes an issue."
+      "When we look at the broader picture of zoonotic disease, like swine influenza, one of our major concerns is that those viruses are really, really smart, and they're looking for ways to mutate and change."
+  01:03:53  ( unknown)  conf=0.5
+      "And that's when you get pandemic outbreaks, and that's exactly what we wanna prevent."
+      "And we do that by reducing clinical signs and limiting the spread of things like influenza."
+  01:04:16  ( unknown)  conf=0.5
+      "4,500,000,000 people attend these events on an annual basis."
+      "That's a lot of people that are walking through these barns."
+  01:04:39  ( unknown)  conf=0.5
+      "There's 750 of them."
+      "Tell them that their health is at risk, go to an emergency room, and get tested for swine influenza."
+  01:04:53  ( unknown)  conf=0.5
+      "Can you guys imagine what would have happened if that was the guidance we followed?"
+      "We did not take that approach."
+  01:05:17  ( unknown)  conf=0.5
+      "We provide them with implemental biosecurity practices."
+      "They have different materials like auction buyer and processor outreach and county fair health plan so that they can work through an outbreak like this themselves."
+  01:06:02  ( unknown)  conf=0.5
+      "This is a highly contagious viral disease that primarily affects domestic poultry like chickens, ducks, turkeys, and geese."
+      "And the current strain that we have floating around is h five n one, and that can also infect other mammals, specifically our dairy cattle here in Michigan."
+  01:06:35  ( unknown)  conf=0.5
+      "So it makes it an extra fun virus for us."
+      "High Path is particularly detrimental to our farms because it causes a very rapid illness."
+  01:07:07  ( unknown)  conf=0.5
+      "Right now, the current high path avian influenza outbreak, was identified in 2022."
+      "It's still ongoing because we do have a few cases here and there."
+  01:07:42  ( unknown)  conf=0.5
+      "We did a lot of things and we worked really quickly and I'm very, very appreciative of that."
+      "We provided our farmers with vital biosecurity knowledge and resources, and we had a collaborative effort that helped mitigate that immediate threat, but also strengthen our resiliency when dealing with these type of outbreaks."
+  01:08:18  ( unknown)  conf=0.5
+      "We established MSU extension as a trusted resource for real time outbreak information and biosecurity training."
+      "We supported MDARD's outreach efforts and enabled effective communications with our farmers, and we strengthened those partnerships with key stakeholders to ensure that we had a coordinated response to these outbreaks."
+  01:08:55  ( unknown)  conf=0.5
+      "And let me start off by saying, we do not have this in Michigan even though there's a lot of press about this."
+      "New world screwworm is a fly whose larvae or the maggots infest the living tissue of warm blooded animals."
+  01:09:27  ( unknown)  conf=0.5
+      "As of yesterday, because they update the, dashboard, every Tuesday and Thursday, we had nineteen cases between Texas and New Mexico of New World Square Room."
+      "And what we're finding is that it's coming over from Mexico."
+  01:10:03  ( unknown)  conf=0.5
+      "Again, we don't have it in Michigan."
+      "There's no confirmed cases, but we are working to make sure that farmers remain vigilant."
+  01:10:42  ( unknown)  conf=0.5
+      "The final disease that I do wanna talk about is one that is near and dear to my heart, and, actually, this is the one that wakes me up at 02:00 in the morning."
+      "It gives me lots of sleepless nights just thinking about this."
+  01:11:02  ( unknown)  conf=0.5
+      "The disease causes severe illness with mortality rates reaching about a hundred percent."
+      "And the crazy thing about this one is if a pig does not die from ASF, it becomes a carrier of that virus for life."
+  01:11:28  ( unknown)  conf=0.5
+      "ASF has become one of the most widespread animal diseases in the world, affecting more than 50 countries across Africa, Europe, Asia, and parts of The Caribbean."
+      "We have identified this in Haiti and The Dominican Republic, which means this is much closer than it has ever been to The US in the few in the recent years."
+  01:12:12  ( unknown)  conf=0.5
+      "If we lose those export markets because of a disease like this, our industry will be in upheaval."
+      "So preparing Michigan for foreign animal disease is a critical effort that we at MSU extension have done, and we are currently developing and working through Michigan secure food supply plans."
+  01:13:01  ( unknown)  conf=0.5
+      "We assist with developing disease guidance for Michigan through collaboration with MDARD, USDA, commodity organizations, the College of Vet Med, and the veterinary diagnostic laboratory here or our VDL."
+      "We've built a team of experts that work on a task force to develop an acceptable enhanced biosecurity plans and what response looks like here in Michigan."
+  01:13:47  ( unknown)  conf=0.5
+      "In Michigan, we've done that for the pork industry, and I'm happy to say through the work of MSU extension and the Michigan Pork Producers Association, 70% of the pigs grown and raised in Michigan are covered under a secure pork supply plan, and that plan has been verified."
+      "That means if we have a disease outbreak and we have to permit movement of our animals, they have to have things in place."
+  01:14:19  ( unknown)  conf=0.5
+      "So every time you would come into your office to attend a meeting or an event like this, you would have to first sign off, send in for a permit, make sure you checked off the entire list, and have somebody come in and check you over and make sure that you are healthy enough to move every time you wanted to do that."
+      "That's what our farmers will have to do if we have a disease like this."
+  01:14:54  ( unknown)  conf=0.5
+      "Other things that this task force and this group has been doing is focusing on this preparedness through different ways."
+      "We've had exercises."
+  01:15:13  ( unknown)  conf=0.5
+      "They set the testing recommendations on what farmers will have to do."
+      "We've been able to provide input on that and help influence how many pigs farmers have to test and how quickly they have to do that done."
+  01:15:46  ( unknown)  conf=0.5
+      "And we've standardized that because of the work here in Michigan."
+  01:16:42  ( unknown)  conf=0.5
+      "It it does affect it, and I can I can address that with screwworm?"
+      "One of the things that's, on our corner is that we do not think that new world screwworm will survive our Michigan winters."
+  01:17:07  ( unknown)  conf=0.5
+      "Yes."
+      "There are some diseases that actually do better in the cold."
+  01:21:20  ( unknown)  conf=0.5
+      "Call MSU extension."
+  01:21:25  ( unknown)  conf=0.5
+      "Bio secure so I like to think of it as a menu, because there's not one solution that fits every single farm because our farms are so different."
+      "And so we really work on identifying what that specific farm could benefit from."
+  01:21:51  ( unknown)  conf=0.5
+      "If they call the local extension office, they they know the extension tree and and they will find us."
+      "So if it's an animal biosecurity issue, it'll get down to me in Berrien County."
+  01:22:58  ( unknown)  conf=0.5
+      "I I I hope not."
+      "I I don't think that there's any information that I could provide for you."
+  01:23:19  ( unknown)  conf=0.5
+      "So it's definitely a concern, and that's why our farms implement strategic pest control programs to try to prevent some of that movement."
+  01:24:09  ( unknown)  conf=0.5
+      "I think our farmers and and we talk to our farmers a lot about knowing where their product comes from and where it's where it's going."
+      "When we think about animal agriculture, we have a lot of animals across state lines."
+  01:24:36  ( unknown)  conf=0.5
+      "I think that's the preparedness that people are are at least aware of."
+  01:27:01  ( unknown)  conf=0.5
+      "A lot of the research that's done is highly regulated, and has to be approved."
+      "So there's a lot of of things that we have to do to make sure that we are, making sure all of our best practices are in place, that we don't inadvertently introduce something here in Michigan."
+  01:27:50  ( unknown)  conf=0.5
+      "Yeah."
+      "If they're employed by MSU extension, all of that's in place or MSU, background tests and those type of things."
+  01:28:02  ( unknown)  conf=0.5
+      "All of that's in place."
+
+[LEGISLATOR] Green   [12 turn(s)]
+  30:43  ( unknown)  conf=0.6
+      "I have a lot of questions, but want to follow-up specifically on representative Brooks."
+      "Is there a Central Michigan dashboard or alert system where farmers can see, confirm crop diseases and animal disease threats in, in the county in real time or in the state or the country?"
+  32:15  ( unknown)  conf=0.6
+      "Okay."
+      "That's that would just be it'd be helpful, but I understand why they don't wanna share because I know they're like talking to my own farmers, they wanna know, but then they're like, oh, I don't want anybody to know that you can't, like, be here."
+  32:50  ( unknown)  conf=0.6
+      "At the MSU extension?"
+      "Yes."
+  33:01  ( unknown)  conf=0.6
+      "So I I mean, Southernmont isn't big here, but the tar spot is definitely starting to impact my communities, at least what they're saying."
+      "So I'm just seeing if you guys are seeing the same thing or or even other diseases that farmers may not recognize that are not typical to Michigan."
+  33:32  ( unknown)  conf=0.6
+      "Okay."
+      "Okay."
+  33:48  ( unknown)  conf=0.6
+      "I'll go back and see how this conversation goes because I have a lot of questions, but they may not be applicable to this specifically."
+  01:20:23  ( unknown)  conf=0.6
+      "Thank you so much for coming."
+      "I really wish, and I don't know if it's possible we could get MDARD here as well because I feel like they're an important piece to this puzzle."
+  01:20:49  ( unknown)  conf=0.6
+      "Okay."
+      "So but if we had one thing to take back to our district because you just gave us a ton of information."
+  01:21:18  ( unknown)  conf=0.6
+      "But if there's one thing we could give them, what would that one thing be?"
+  01:21:22  ( unknown)  conf=0.6
+      "Okay."
+      "Call MSU extension."
+  01:21:44  ( unknown)  conf=0.6
+      "Are all the counties or the extension offices the same, or would they call an extension off like, the central office first?"
+  01:22:07  ( unknown)  conf=0.6
+      "Thank you so much."
+      "We really appreciate your work."
+
+[LEGISLATOR] Meerman   [6 turn(s)]
+  38:13  ( unknown)  conf=0.6
+      "Still can't kick that habit."
+      "I don't know if you if there's a a way to or if you've seen sort of behind the curtain, like, around the world."
+  38:48  ( unknown)  conf=0.6
+      "But, do you have any idea how that happens or, you know, you know, who's prioritizing what?"
+      "And then how's the training maybe happen to the inspector as fruits coming in?"
+  01:23:36  ( unknown)  conf=0.6
+      "Thank you."
+      "Appreciate it, chair."
+  01:23:41  ( unknown)  conf=0.6
+      "know if there's been discussions kind of at your level about what might look different if there was a a nation purposely trying to cause havoc in our agriculture industry, whether it's through disease or pests?"
+      "You know, somehow they would try to make it happen here in United States."
+  01:24:40  ( unknown)  conf=0.6
+      "I guess just to finalize this, I mean, I never expected to sit on this committee here at a state level with a legislative focus of of Michigan."
+      "Well, I I would just encourage everybody that there are things we can do here, and there are nation states that are looking to see us collapse, especially in our agriculture."
+  01:25:15  ( unknown)  conf=0.6
+      "And so we, I think, have a responsibility to say, you know, let's keep be observant, be vigilant to try to hold that back."

@@ -1,0 +1,310 @@
+HEARING: HAGRI-022626
+Committee code: HAGRI
+================================================================================
+
+ATTENDANCE (roll call, 15) - presence signal only, not tied to a turn
+--------------------------------------------------------------------------------
+  - Nyar
+  - Wirtz
+  - Leitner
+  - Alexander
+  - Fox
+  - Coons
+  - Pavlov
+  - Pies
+  - Diegendorf
+  - Braggins
+  - Skaggs
+  - USDA
+  - Michigan
+  - Clare
+  - Jones
+
+TESTIMONY (48 turns)
+--------------------------------------------------------------------------------
+[LEGISLATOR] Leitner   [8 turn(s)]
+  06:18  ( unknown)  conf=0.5
+      "Here."
+      "Alexander."
+  26:35  ( unknown)  conf=0.5
+      "and by extension, strengthen Michigan."
+      "Once again,"
+  49:32  ( unknown)  conf=0.5
+      "enough of me."
+      "So those are"
+  50:50  ( unknown)  conf=0.5
+      "Yep."
+      "Thank you."
+  56:53  ( unknown)  conf=0.5
+      "Thank you, mister chair."
+      "My question is in regards to just definitions."
+  57:35  ( unknown)  conf=0.5
+      "You know what I mean?"
+      "Like, is there not merit in working with our Michigan department to make sure we're super consistent with with the federal guideline our federal definition is, you know, for things under your department?"
+  58:04  ( unknown)  conf=0.5
+      "Like, the def definition of homelessness for federal standards is different than what ours is."
+      "And it's crazy because, you know, couch surfing can be homeless under one definition, but it's not on the other because they're like, well, you're not living in an overpass, so you're not homeless."
+  58:23  ( unknown)  conf=0.5
+      "Maybe you haven't more insight, but I know we're running short on time."
+      "But that's just my thing because that's one of my frustrations as a farmer, an individual, and, like, meeting the metrics and making sure the definitions are the same for a wetland regardless of if you're in Michigan, Ohio, Indiana, whatever."
+
+[LEGISLATOR] Pavlov   [13 turn(s)]
+  06:20  ( unknown)  conf=0.6
+      "Present."
+      "Coons."
+  47:04  ( unknown)  conf=0.6
+      "Thank you, mister chair, and thank you for being here, guys."
+      "I guess for me, I just, believe very much with Trump farmers first and would say that agriculture, farming is our national security."
+  47:44  ( unknown)  conf=0.6
+      "And you can throw in Zealand or Hudsonville or I'm from Fremont."
+      "Okay?"
+  48:06  ( unknown)  conf=0.6
+      "How can we incentivize farmers who want to retire on whether it's wind or solar?"
+      "Or now we've got the data centers coming at us."
+  48:34  ( unknown)  conf=0.6
+      "They don't wanna lose lose what God has given us, bottom line."
+      "And, so and how can, you know, how can we get past the bureaucracy, the regulations, the the unelected officials, you know, making rules that don't always make sense."
+  49:13  ( unknown)  conf=0.6
+      "I would like to see money coming toward keeping our farmlands and not using misusing our water and not, you know, on and on."
+      "Correct."
+  49:29  ( unknown)  conf=0.6
+      "You've had enough of me?"
+      "Yep."
+  49:31  ( unknown)  conf=0.6
+      "sure you've had"
+  49:32  ( unknown)  conf=0.6
+      "thank you for being here."
+  50:24  ( unknown)  conf=0.6
+      "If I may."
+      "I I I just I just have problems with with hiding behind regulations and statutory stuff and what have you."
+  50:44  ( unknown)  conf=0.6
+      "And then all this wetland stuff kicks in."
+      "You know?"
+  50:51  ( unknown)  conf=0.6
+      "Thank you very much."
+  52:39  ( unknown)  conf=0.6
+      "no."
+      "Thanks."
+
+[WITNESS] Dave Russ  -  Michigan's Farm Service Agency   [15 turn(s)]
+  21:42  ( unknown)  conf=0.5
+      "Thank you, Joel."
+      "Excuse me."
+  21:55  ( unknown)  conf=0.5
+      "In this role, I'm responsible for directing, managing, and overseeing FSA's farm loan operations across Michigan."
+      "I'm also a proud graduate of Michigan State University's College of Agriculture and Natural Resources, and I've had the privilege of working in this industry for nearly thirty five years."
+  22:24  ( unknown)  conf=0.5
+      "It's about jobs, families, rural communities, and the health of our entire state's economy."
+      "When agriculture thrives, Michigan thrives."
+  22:59  ( unknown)  conf=0.5
+      "This funding helps keep Michigan's farms competitive and positioned to succeed into the future."
+      "FSA offers financing through its direct loan programs where FSA staff work directly with the farm family to understand their financial circumstances, goals, and needs and match those with financing opportunities directly from the US Treasury."
+  23:56  ( unknown)  conf=0.5
+      "This guaranteed program facilitates, enables, and provides private lenders flexibility and certainty to finance farming operations while significantly mitigating risk of loss associated with the inherent perils involved in agricultural lending."
+      "Together, these loan programs can provide financing for a wide variety of farm needs."
+  24:55  ( unknown)  conf=0.5
+      "These public private partnerships allow us to stretch federal dollars further while strengthening relationships with local lenders and communities."
+      "I also know this committee is paying close attention to an issue that affects all of us, the aging of our nation's farmers."
+  25:36  ( unknown)  conf=0.5
+      "For example, at least three years of farm experience are needed to purchase farm real estate."
+      "However, we do not view these requirements as barriers."
+  26:15  ( unknown)  conf=0.5
+      "Farm loan program's mission is simple, to ensure that family farmers in Michigan have the tools, resources, and support they need to succeed."
+      "Whether it's keeping operations in the family, helping beginning farmers get their start, or providing recovery assistance after a disaster, FSA's farm loan programs are here to strengthen agriculture"
+  26:35  ( unknown)  conf=0.5
+      "I appreciate the opportunity extension strengthen Michigan."
+      "Once again, I appreciate the opportunity to share this overview of our work."
+  51:26  ( unknown)  conf=0.5
+      "Sure."
+      "You know, as I mentioned in my opening comments, FSA does have loan programs where we can provide financing for the purchase of real estate."
+  51:57  ( unknown)  conf=0.5
+      "FSA provides part of that financing."
+      "Depending on the capital needs, we may have a, an additional lending partner as part of that, and so we have a little bit of private investment in that."
+  54:26  ( unknown)  conf=0.5
+      "Thank you for the question."
+      "You referred to, I believe, the discrimination financial assistance program that came from, if I recall correctly, the Inflation Reduction Act, specifically section two two zero zero seven."
+  55:08  ( unknown)  conf=0.5
+      "Those customers were then routed through a third party to evaluate those applications."
+      "FSA and our staff were not involved in any of that evaluation process as to avoid any historical concerns so that if a customer had a historical concern with an FSA staff and so forth, we were not involved in that evaluation process whatsoever."
+  55:44  ( unknown)  conf=0.5
+      "It It was concluded last summer, summer of twenty twenty five, I believe, and customers, needed to apply for that program."
+      "Those applications were then evaluated by, a different entity, and an outcome was then determined for which, honestly, we do not have information on purpose as to the outcome, whether a customer was, approved for inclusion in the program or not approved for inclusion."
+  56:30  ( unknown)  conf=0.5
+      "I'm not specifically aware of that."
+      "There there could be."
+
+[LEGISLATOR] Wirtz   [12 turn(s)]
+  29:45  ( unknown)  conf=0.6
+      "Thank you, Tara."
+      "Thank you all for being here today, and I appreciate, some of your feedback that you brought."
+  30:09  ( unknown)  conf=0.6
+      "That's the biggest complaint and the frustration that they see in coming."
+      "I I worked as a conservation district manager before coming here, so I sat on the across the hall, if you will, from the USDA side of things."
+  35:24  ( unknown)  conf=0.6
+      "Yeah."
+      "And I appreciate you, kind of explaining that."
+  35:41  ( unknown)  conf=0.6
+      "Grew up on a farm."
+      "Still own a farm to this day."
+  36:09  ( unknown)  conf=0.6
+      "Meanwhile, large energy corporations, PA, here two thirty three in Michigan as I call the green new scam that has incentivized large corporations to be able to come in and offer thousands of dollars."
+  36:30  ( unknown)  conf=0.6
+      "Okay."
+      "Well, I will return then too."
+  37:14  ( unknown)  conf=0.6
+      "And how do your programs meet the needs without creating more burdensome regulations to the point that people say, I'm done."
+      "I'm just gonna take the $1,218,100 dollars an acre because I can't continue this."
+  40:13  ( unknown)  conf=0.6
+      "And I appreciate it."
+      "You know, corn growers are very hopeful in what the president has said with making sure that we can get aviation fuel and ethanol and biodiesel a market here in The States and that readily salable without, again, burdensome red tape."
+  59:02  ( unknown)  conf=0.6
+      "Thank you."
+      "I just wanted to go back to the USDA law fair website that was that has been set up and just ask if you guys can give any guidance as to what the procedure will be."
+  59:52  ( unknown)  conf=0.6
+      "Again, back to rep what rep Leitner said, we're so heavily regulated with discharge of water that a lot of places either won't expand or we can't get new facilities built."
+      "Is that something you guys could help with?"
+  01:00:47  ( unknown)  conf=0.6
+      "So water discharge, you guys don't"
+  01:00:49  ( unknown)  conf=0.6
+      "You need to offer any assistance for any programs like that?"
+
+TESTIMONY IN ORDER SPOKEN (48 turns)
+--------------------------------------------------------------------------------
+06:18  [LEGISLATOR] Leitner  ( unknown)
+    "Here."
+    "Alexander."
+06:20  [LEGISLATOR] Pavlov  ( unknown)
+    "Present."
+    "Coons."
+21:42  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "Thank you, Joel."
+    "Excuse me."
+21:55  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "In this role, I'm responsible for directing, managing, and overseeing FSA's farm loan operations across Michigan."
+    "I'm also a proud graduate of Michigan State University's College of Agriculture and Natural Resources, and I've had the privilege of working in this industry for nearly thirty five years."
+22:24  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "It's about jobs, families, rural communities, and the health of our entire state's economy."
+    "When agriculture thrives, Michigan thrives."
+22:59  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "This funding helps keep Michigan's farms competitive and positioned to succeed into the future."
+    "FSA offers financing through its direct loan programs where FSA staff work directly with the farm family to understand their financial circumstances, goals, and needs and match those with financing opportunities directly from the US Treasury."
+23:56  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "This guaranteed program facilitates, enables, and provides private lenders flexibility and certainty to finance farming operations while significantly mitigating risk of loss associated with the inherent perils involved in agricultural lending."
+    "Together, these loan programs can provide financing for a wide variety of farm needs."
+24:55  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "These public private partnerships allow us to stretch federal dollars further while strengthening relationships with local lenders and communities."
+    "I also know this committee is paying close attention to an issue that affects all of us, the aging of our nation's farmers."
+25:36  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "For example, at least three years of farm experience are needed to purchase farm real estate."
+    "However, we do not view these requirements as barriers."
+26:15  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "Farm loan program's mission is simple, to ensure that family farmers in Michigan have the tools, resources, and support they need to succeed."
+    "Whether it's keeping operations in the family, helping beginning farmers get their start, or providing recovery assistance after a disaster, FSA's farm loan programs are here to strengthen agriculture"
+26:35  [LEGISLATOR] Leitner  ( unknown)
+    "and by extension, strengthen Michigan."
+    "Once again,"
+26:35  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "I appreciate the opportunity extension strengthen Michigan."
+    "Once again, I appreciate the opportunity to share this overview of our work."
+29:45  [LEGISLATOR] Wirtz  ( unknown)
+    "Thank you, Tara."
+    "Thank you all for being here today, and I appreciate, some of your feedback that you brought."
+30:09  [LEGISLATOR] Wirtz  ( unknown)
+    "That's the biggest complaint and the frustration that they see in coming."
+    "I I worked as a conservation district manager before coming here, so I sat on the across the hall, if you will, from the USDA side of things."
+35:24  [LEGISLATOR] Wirtz  ( unknown)
+    "Yeah."
+    "And I appreciate you, kind of explaining that."
+35:41  [LEGISLATOR] Wirtz  ( unknown)
+    "Grew up on a farm."
+    "Still own a farm to this day."
+36:09  [LEGISLATOR] Wirtz  ( unknown)
+    "Meanwhile, large energy corporations, PA, here two thirty three in Michigan as I call the green new scam that has incentivized large corporations to be able to come in and offer thousands of dollars."
+36:30  [LEGISLATOR] Wirtz  ( unknown)
+    "Okay."
+    "Well, I will return then too."
+37:14  [LEGISLATOR] Wirtz  ( unknown)
+    "And how do your programs meet the needs without creating more burdensome regulations to the point that people say, I'm done."
+    "I'm just gonna take the $1,218,100 dollars an acre because I can't continue this."
+40:13  [LEGISLATOR] Wirtz  ( unknown)
+    "And I appreciate it."
+    "You know, corn growers are very hopeful in what the president has said with making sure that we can get aviation fuel and ethanol and biodiesel a market here in The States and that readily salable without, again, burdensome red tape."
+47:04  [LEGISLATOR] Pavlov  ( unknown)
+    "Thank you, mister chair, and thank you for being here, guys."
+    "I guess for me, I just, believe very much with Trump farmers first and would say that agriculture, farming is our national security."
+47:44  [LEGISLATOR] Pavlov  ( unknown)
+    "And you can throw in Zealand or Hudsonville or I'm from Fremont."
+    "Okay?"
+48:06  [LEGISLATOR] Pavlov  ( unknown)
+    "How can we incentivize farmers who want to retire on whether it's wind or solar?"
+    "Or now we've got the data centers coming at us."
+48:34  [LEGISLATOR] Pavlov  ( unknown)
+    "They don't wanna lose lose what God has given us, bottom line."
+    "And, so and how can, you know, how can we get past the bureaucracy, the regulations, the the unelected officials, you know, making rules that don't always make sense."
+49:13  [LEGISLATOR] Pavlov  ( unknown)
+    "I would like to see money coming toward keeping our farmlands and not using misusing our water and not, you know, on and on."
+    "Correct."
+49:29  [LEGISLATOR] Pavlov  ( unknown)
+    "You've had enough of me?"
+    "Yep."
+49:31  [LEGISLATOR] Pavlov  ( unknown)
+    "sure you've had"
+49:32  [LEGISLATOR] Leitner  ( unknown)
+    "enough of me."
+    "So those are"
+49:32  [LEGISLATOR] Pavlov  ( unknown)
+    "thank you for being here."
+50:24  [LEGISLATOR] Pavlov  ( unknown)
+    "If I may."
+    "I I I just I just have problems with with hiding behind regulations and statutory stuff and what have you."
+50:44  [LEGISLATOR] Pavlov  ( unknown)
+    "And then all this wetland stuff kicks in."
+    "You know?"
+50:50  [LEGISLATOR] Leitner  ( unknown)
+    "Yep."
+    "Thank you."
+50:51  [LEGISLATOR] Pavlov  ( unknown)
+    "Thank you very much."
+51:26  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "Sure."
+    "You know, as I mentioned in my opening comments, FSA does have loan programs where we can provide financing for the purchase of real estate."
+51:57  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "FSA provides part of that financing."
+    "Depending on the capital needs, we may have a, an additional lending partner as part of that, and so we have a little bit of private investment in that."
+52:39  [LEGISLATOR] Pavlov  ( unknown)
+    "no."
+    "Thanks."
+54:26  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "Thank you for the question."
+    "You referred to, I believe, the discrimination financial assistance program that came from, if I recall correctly, the Inflation Reduction Act, specifically section two two zero zero seven."
+55:08  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "Those customers were then routed through a third party to evaluate those applications."
+    "FSA and our staff were not involved in any of that evaluation process as to avoid any historical concerns so that if a customer had a historical concern with an FSA staff and so forth, we were not involved in that evaluation process whatsoever."
+55:44  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "It It was concluded last summer, summer of twenty twenty five, I believe, and customers, needed to apply for that program."
+    "Those applications were then evaluated by, a different entity, and an outcome was then determined for which, honestly, we do not have information on purpose as to the outcome, whether a customer was, approved for inclusion in the program or not approved for inclusion."
+56:30  [WITNESS] Dave Russ  -  Michigan's Farm Service Agency  ( unknown)
+    "I'm not specifically aware of that."
+    "There there could be."
+56:53  [LEGISLATOR] Leitner  ( unknown)
+    "Thank you, mister chair."
+    "My question is in regards to just definitions."
+57:35  [LEGISLATOR] Leitner  ( unknown)
+    "You know what I mean?"
+    "Like, is there not merit in working with our Michigan department to make sure we're super consistent with with the federal guideline our federal definition is, you know, for things under your department?"
+58:04  [LEGISLATOR] Leitner  ( unknown)
+    "Like, the def definition of homelessness for federal standards is different than what ours is."
+    "And it's crazy because, you know, couch surfing can be homeless under one definition, but it's not on the other because they're like, well, you're not living in an overpass, so you're not homeless."
+58:23  [LEGISLATOR] Leitner  ( unknown)
+    "Maybe you haven't more insight, but I know we're running short on time."
+    "But that's just my thing because that's one of my frustrations as a farmer, an individual, and, like, meeting the metrics and making sure the definitions are the same for a wetland regardless of if you're in Michigan, Ohio, Indiana, whatever."
+59:02  [LEGISLATOR] Wirtz  ( unknown)
+    "Thank you."
+    "I just wanted to go back to the USDA law fair website that was that has been set up and just ask if you guys can give any guidance as to what the procedure will be."
+59:52  [LEGISLATOR] Wirtz  ( unknown)
+    "Again, back to rep what rep Leitner said, we're so heavily regulated with discharge of water that a lot of places either won't expand or we can't get new facilities built."
+    "Is that something you guys could help with?"
+01:00:47  [LEGISLATOR] Wirtz  ( unknown)
+    "So water discharge, you guys don't"
+01:00:49  [LEGISLATOR] Wirtz  ( unknown)
+    "You need to offer any assistance for any programs like that?"
